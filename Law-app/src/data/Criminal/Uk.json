@@ -1,0 +1,17 @@
+
+{
+ "criminal_cases":{
+    "Murder":[    
+{
+  "case_name": "The State v. Copeland, Scott, and Howell",
+  "citation": "S20A0820, S20A0821, S20A0822",
+  "court": "Supreme Court of Georgia",
+  "judge": "Justice Bethel",
+  "facts": "Three deputies (Copeland, Scott, Howell) used TASERs and physical force against Eurie Lee Martin during an encounter, resulting in his death. The trial court granted them immunity under Georgia's self-defense law, but the Supreme Court vacated the ruling.",
+  "Legal_Principle": "Immunity under OCGA § 16-3-24.2 requires proof that force was reasonably necessary for self-defense. Deadly force must be justified by imminent threat of death/great bodily harm. Police-citizen encounters must be properly classified (consensual, investigatory, or arrest) before assessing self-defense claims.",
+  "link": "https://law.justia.com/cases/georgia/supreme-court/2020/s20a0820.html"
+}
+
+    ]
+ }  
+}

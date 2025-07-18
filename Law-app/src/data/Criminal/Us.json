@@ -1,0 +1,745 @@
+
+{
+ "criminal_cases":{
+    "Murder":[    
+{
+  "case_name": "The State v. Copeland, Scott, and Howell",
+  "citation": "S20A0820, S20A0821, S20A0822",
+  "court": "Supreme Court of Georgia",
+  "judge": "Justice Bethel",
+  "facts": "Three deputies (Copeland, Scott, Howell) used TASERs and physical force against Eurie Lee Martin during an encounter, resulting in his death. The trial court granted them immunity under Georgia's self-defense law, but the Supreme Court vacated the ruling.",
+  "Legal_Principle": "Immunity under OCGA § 16-3-24.2 requires proof that force was reasonably necessary for self-defense. Deadly force must be justified by imminent threat of death/great bodily harm. Police-citizen encounters must be properly classified (consensual, investigatory, or arrest) before assessing self-defense claims.",
+  "link": "https://law.justia.com/cases/georgia/supreme-court/2020/s20a0820.html"
+},
+{
+  "case_name": "In the Matter of Timothy Orman McCalep",
+  "citation": "S23Y0919, S24Y0084",
+  "court": "Supreme Court of Georgia",
+  "judge": "Per Curiam",
+  "facts": "Attorney Timothy McCalep faced disciplinary actions for systemic client abandonment, failure to communicate, misrepresentation, and financial misconduct across multiple cases while under interim suspension. The matters involved violations of numerous Georgia Rules of Professional Conduct.",
+  "legal_principle": "Disbarment is warranted for attorneys who: (1) knowingly abandon client matters causing serious injury (ABA Standard 4.41); (2) convert client property (ABA Standard 4.11); (3) engage in pattern of neglect (ABA Standard 4.51); (4) knowingly deceive clients (ABA Standard 4.61); and (5) violate court orders (ABA Standard 6.2). Aggravating factors include prior discipline, dishonest motive, pattern of misconduct, multiple offenses, vulnerable victims, and indifference to restitution (ABA Standard 9.22).",
+  "link": "https://law.justia.com/cases/georgia/supreme-court/2024/s23y0919.html"
+},
+{
+  "case_name": "Fisher v. United States",
+  "citation": "328 U.S. 463 (1946)",
+  "court": "U.S. Supreme Court",
+  "facts": "Petitioner Fisher was convicted of first-degree murder in the District of Columbia for strangling Catherine Cooper Reardon. The defense argued Fisher's borderline mental deficiency and psychopathic aggressive tendencies, while not amounting to legal insanity, should mitigate the charge by showing inability to deliberate or premeditate. The trial court refused to instruct the jury to consider this evidence for degree of murder.",
+  "legal_principle": "1) Mental deficiency not amounting to legal insanity cannot negate deliberation/premeditation for first-degree murder under D.C. Code; 2) Courts may notice material instructional errors in capital cases sua sponte; 3) Federal courts defer to local D.C. rules on criminal responsibility absent egregious error. Deliberation requires 'second thought' about preconceived design to kill, distinct from impulsive reactions.",
+  "link": "https://supreme.justia.com/cases/federal/us/328/463/"
+},
+{
+  "case_name": "Allen v. United States",
+  "citation": "157 U.S. 675 (1895)",
+  "court": "Supreme Court of the United States",
+  "judge": "Justice Shiras (Majority), Justice Brewer (Dissent)",
+  "facts": "Fifteen-year-old Alexander Allen (African American) shot and killed seventeen-year-old Philip Henson (White) during a confrontation between groups of teenagers. The groups had a prior altercation with threats of violence. At trial, conflicting testimony existed about whether Henson's group crossed a fence to attack Allen first with sticks, or whether Allen initiated the violence by striking Henson before shooting him. The trial court's jury instructions limited self-defense considerations based on whether the sticks constituted 'deadly weapons.'",
+  "legal_principle": "1. Self-defense claims cannot be withdrawn from jury consideration based solely on whether attacking weapons are formally classified as 'deadly' (sticks/clubs may become deadly in actual combat)\n2. Arming oneself in anticipation of threatened violence does not automatically convert a subsequent killing from manslaughter to murder\n3. Jury must evaluate self-defense claims based on the circumstances during the actual confrontation, not just prior preparations",
+  "link": "https://supreme.justia.com/cases/federal/us/157/675/"
+},
+{
+  "case_name": "Fitzpatrick v. United States",
+  "citation": "178 U.S. 304 (1900)",
+  "court": "U.S. Supreme Court",
+  "facts": "Defendant Fitzpatrick was jointly indicted with two others for the murder of Samuel Roberts in Alaska. The indictment alleged deliberate and premeditated malice. Fitzpatrick was convicted by a jury verdict of 'guilty without capital punishment' and sentenced to life imprisonment. Key issues included sufficiency of the indictment, admissibility of evidence about a co-defendant's wound, cross-examination scope after Fitzpatrick testified to an alibi, and rebuttal evidence about revolver flashes.",
+  "legal_principle": "1) A conviction remains 'capital' under the Court of Appeals Act even if punishment is commuted; 2) An indictment satisfies statutory requirements if it enables a person of common understanding to know the charge; 3) Cross-examination of a defendant who testifies may cover all circumstances connecting them to the crime; 4) Rebuttal evidence is permissible when the defense opens the door to such testimony.",
+  "link": "https://supreme.justia.com/cases/federal/us/178/304/"
+},
+{
+  "case_name": "Green v. United States",
+  "citation": "355 U.S. 184 (1957)",
+  "court": "Supreme Court of the United States",
+  "judge": "Justice Black (Majority), Justice Frankfurter (Dissent)",
+  "facts": "Petitioner Green was initially tried for first-degree murder under a two-count indictment (first count: arson; second count: felony murder). The jury convicted him of second-degree murder under the second count while remaining silent on first-degree murder. After Green successfully appealed the second-degree conviction due to insufficient evidence, he was retried on the original indictment, convicted of first-degree murder, and sentenced to death.",
+  "legal_principle": "1. The Double Jeopardy Clause prohibits retrial for a greater offense after a jury implicitly acquits the defendant by convicting on a lesser included offense (an 'implied acquittal' doctrine)\n2. A defendant's successful appeal of a lesser conviction does not constitute waiver of double jeopardy protections for the greater offense\n3. The intentional arming doctrine from Trono v. United States is limited to its unique factual circumstances involving Philippine law",
+  "link": "https://supreme.justia.com/cases/federal/us/355/184/"
+},
+{
+  "title": "Murder Accountability Project v. U.S. Department of Justice",
+  "citation": "Civil Action No. 19-2478 (ABJ)",
+  "court": "United States District Court for the District of Columbia",
+  "facts": "Plaintiff Murder Accountability Project (MAP), a nonprofit organization, submitted FOIA requests to multiple federal agencies (FBI, NPS, BIA, Army, Navy, Air Force) seeking unreported homicide data under the Uniform Federal Crime Reporting Act (UFCRA) from 1989 to present. MAP alleged agencies failed to comply with mandatory reporting requirements, particularly concerning homicides of Native American women. Agencies produced limited records, with some claiming no responsive data existed for certain periods.",
+  "legal_principle": "1) FOIA requires agencies to conduct adequate searches reasonably calculated to uncover responsive records; 2) Failure to exhaust administrative remedies may bar judicial review unless excused; 3) Exemption 6 permits withholding of personal identifiers (names, SSNs) where privacy interests outweigh public interest; 4) Agencies need not create new records or answer interrogatories under FOIA.",
+  "link": "https://law.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1:2019cv02478/205700/56/"
+},
+
+{
+  "case_name": "State v. Cook (Six Cases)",
+  "citation": "[2023] GASC 702",
+  "court": "Supreme Court of Georgia",
+  "date": "2023-10-11",
+  "facts": "Antonio May died from injuries sustained in Fulton County Jail while in custody. Defendants (jail employees) allegedly beat, pepper sprayed, and repeatedly shocked May with a taser, causing his death. Defendants sought to quash indictments claiming they were entitled to pre-indictment protections as 'peace officers' under OCGA § 17-7-52.",
+  "Legal_Principle": "Jail employees are not 'peace officers' under OCGA § 17-7-52 because they lack a duty to maintain general public peace in the community. A peace officer must be vested with duty to maintain public peace through enforcing criminal laws with arrest powers, which jail employees do not possess.",
+  "link": "https://law.justia.com/cases/georgia/supreme-court/2023/s23a0702.html"
+},
+{
+  "case_name": "Johnson v. United States",
+  "citation": "157 U.S. 320 (1895)",
+  "court": "Supreme Court of the United States",
+  "date": "March 25, 1895",
+  "facts": "Willie Johnson was indicted alongside Sam Woodard for the murder of Sherman Russell. The evidence showed that Woodard fired the fatal shot, while Johnson was nearby but did not directly participate in the killing. Johnson was convicted based on the theory of constructive presence, meaning his proximity and alleged prior agreement to aid in the crime made him legally responsible as a principal. Johnson appealed, challenging jury instructions on constructive presence, the relevance of motive, and the evaluation of his testimony.",
+  "Legal_Principle": "1. **Constructive Presence**: A defendant can be found guilty as a principal if they were near the crime scene under a prior agreement to aid in the offense, even if they did not physically commit the act. Constructive presence applies if the defendant’s proximity emboldened the actual perpetrator.  \n2. **Motive**: While motive can be a relevant factor in assessing guilt, its absence does not preclude conviction, as motive may be hidden or trivial.  \n3. **Defendant’s Testimony**: A defendant’s testimony should be weighed for corroboration with other evidence, but if uncorroborated, it must still be evaluated based on its inherent credibility.  \n4. **Appellate Review**: Even if appellate judges have doubts about guilt, they will not overturn a verdict if the trial court found the evidence sufficient and no legal errors occurred."
+},
+{
+  "case_name": "Ball v. United States",
+  "citation": "140 U.S. 118 (1891)",
+  "court": "U.S. Supreme Court",
+  "facts": "Defendants were convicted of murder in Indian Territory under questionable judicial authority. The indictment failed to allege the time and place of death.",
+  "legal_principle": "1. Capital indictments must specify the time and place of death. 2. Acts of de facto judges are valid against collateral attack. 3. The defendant must be present and asked to speak before a capital sentence is imposed. 4. Murder requires showing that death occurred within the jurisdiction.",
+  "link": "https://supreme.justia.com/cases/federal/us/140/118/"
+},
+{
+  "case_name": "Jones v. Mississippi",
+  "citation": "593 U.S. ___ (2021)",
+  "docket_no": "18-1259",
+  "court": "Supreme Court of the United States",
+  "date_granted": "March 9, 2020",
+  "date_argued": "November 3, 2020",
+  "date_decided": "April 22, 2021",
+  "facts": "Brett Jones, aged 15, murdered his grandfather and was convicted in Mississippi, receiving a mandatory life-without-parole (LWOP) sentence. After *Miller v. Alabama* (2012) banned mandatory LWOP for juveniles, Jones was resentenced. The judge had discretion to impose a lesser sentence but still chose LWOP. Jones argued that *Miller* and *Montgomery v. Louisiana* (2016) required a separate finding of 'permanent incorrigibility,' but the court rejected this claim.",
+  "legal_principle": "The Eighth Amendment does not require a separate factual finding of 'permanent incorrigibility' before sentencing a juvenile homicide offender to life without parole. A discretionary sentencing system that considers the defendant’s youth is constitutionally sufficient under *Miller* and *Montgomery*.",
+  "holding": "In cases where a defendant committed homicide under age 18, the sentencer need not make an explicit or implicit finding of permanent incorrigibility before imposing life without parole; a discretionary sentencing process satisfies constitutional requirements.",
+  "link": 
+    "https://supreme.justia.com/cases/federal/us/593/20-1259/"
+    
+},
+{
+  "case_name": "Stein v. New York",
+  "citation": "346 U.S. 156 (1953)",
+  "docket_no": "391",
+  "court": "Supreme Court of the United States",
+  "date_argued": "December 18, 1952",
+  "date_decided": "June 15, 1953",
+  "facts": "Three defendants (Stein, Cooper, and Wissner) were convicted of felony murder in New York state court and sentenced to death. The prosecution relied on confessions from two defendants (Cooper and Stein), which they claimed were coerced by police. The trial court allowed the jury to determine whether the confessions were voluntary. The jury returned a general guilty verdict without specifying whether it relied on the confessions or other evidence. The New York Court of Appeals affirmed the convictions without opinion.",
+  "legal_principle": "The Fourteenth Amendment does not require a separate factual finding of coercion before admitting a confession into evidence. A jury may determine voluntariness under proper instructions, and a conviction may stand even if a coerced confession was admitted, provided there is sufficient independent evidence of guilt.",
+  "holding": "The Supreme Court affirmed the convictions, holding that (1) the procedures used to determine the voluntariness of the confessions did not violate due process, (2) the jury could constitutionally consider the confessions if it found them voluntary, and (3) even if the confessions were coerced, the convictions could stand because other sufficient evidence supported the verdict.",
+  "link": "https://supreme.justia.com/cases/federal/us/346/156/, https://www.oyez.org/cases/1952/391, https://www.law.cornell.edu/supremecourt/text/346/156"
+}
+    ],
+
+
+    "Rape":[
+      {
+  "case_name": "state v. aranda",
+  "citation": "[Oregon Supreme Court citation]",
+  "court": "Supreme Court of Oregon",
+  "facts": "defendant stephen aranda was convicted of first-degree rape after the trial court allowed impeachment of his testimony with prior felony convictions for sexual abuse and assault without conducting a balancing test of probative value versus prejudice.",
+  "legal_principle": "1) due process does not require trial courts to conduct a balancing test under oregon evidence code 403 before admitting prior convictions for impeachment under oec 609. 2) prior felony convictions are inherently relevant to witness credibility without requiring separate prejudice analysis.",
+  "link": "https://law.justia.com/cases/oregon/supreme-court/2024/s069641.html"
+},
+       {
+  "case_name": "State v. Robert Raso",
+  "citation": "Supreme Court of Rhode Island, Nos. 2022-196-C.A. to 2022-211-C.A.",
+  "court": "Supreme Court of Rhode Island",
+  "date": "June 12, 2025",
+  "facts": "Robert Raso was convicted in 1990 of multiple crimes, including second-degree sexual assault, felony assault, arson, and robbery. He received a 40-year sentence with 12 years to serve and 28 years suspended with probation. In 2011, he was accused of sexually assaulting his 14-year-old stepdaughter, leading to a probation violation hearing. Despite the victim's recantation (later deemed coerced), the trial court found Raso violated probation and imposed a 25-year sentence. The criminal charge (first-degree sexual assault) was later dismissed under Rule 48(a), but the state maintained there was no lack of probable cause. Raso filed a motion to terminate his imprisonment under R.I.G.L. § 12-19-18(b)(5), arguing the dismissal triggered his release.",
+  "legal_principle": "The court held that § 12-19-18(b)(5) does not require termination of imprisonment when a charge is dismissed for reasons unrelated to lack of probable cause or doubt about culpability. The statute is unambiguous: imprisonment may only be terminated if the charge fails to proceed due to the state's indication of no probable cause or doubt about guilt. Here, the dismissal was to spare the victim further trauma and because the state was satisfied with the 25-year sentence. The court affirmed the denial of Raso's motion, emphasizing that probation revocation hearings are distinct from criminal trials and that the state's dismissal did not undermine the probation violation finding."
+},
+{
+  "case_name": "State v. Patnaude",
+  "citation": "438 A.2d 402 (Vt. 1981)",
+  "docket_no": "230-80, 231-80",
+  "court": "Supreme Court of Vermont",
+  "date_decided": "November 3, 1981",
+  "facts": "Two defendants (Patnaude and Poquette) and three other men were convicted of sexually assaulting two women during a gang rape at a cabin in Williston. The defendants admitted sexual contact but claimed consent. They sought to introduce evidence of the victims' prior sexual conduct with third parties to support their defense, which the trial court excluded under Vermont's rape shield law (13 V.S.A. § 3255(a)(3)).",
+  "legal_principle": "Vermont's rape shield law bars evidence of a victim’s prior sexual conduct unless it (1) bears on credibility, (2) is material to a fact at issue, and (3) its probative value outweighs its private character. Prior sexual conduct with third parties is not admissible to prove consent or credibility, as it lacks logical relevance and risks unfair prejudice.",
+  "holding": "The Vermont Supreme Court affirmed the convictions, ruling that: (1) the rape shield law is constitutional and aligns with traditional evidentiary standards; (2) evidence of the victims’ prior group sexual activities was properly excluded as irrelevant to consent and unduly prejudicial; and (3) the prosecutor’s closing arguments were permissible commentary on the evidence.",
+  "link": "https://cite.case.law/a2d/438/402/, https://law.justia.com/cases/vermont/supreme-court/1981/438-a-2d-402-0.html"
+},
+{
+  "case_name": "State v. Moorer",
+  "citation": "241 S.C. 487, 129 S.E.2d 330 (1963)",
+  "docket_no": "18016",
+  "court": "Supreme Court of South Carolina",
+  "date_decided": "January 21, 1963",
+  "facts": "Louis Moorer, a 22-year-old Black man, was convicted of raping the wife of a prominent White physician in St. George, South Carolina. Moorer, who had worked for the victim for years, attacked her in her home after her children left for school. The victim testified to a violent struggle, during which Moorer beat and choked her before raping her. Medical evidence confirmed live sperm in her vagina and physical injuries. Moorer claimed consent but presented no evidence supporting this defense.",
+  "legal_principle": "1) A motion for change of venue is discretionary and requires a showing of actual prejudice. 2) A physician's testimony about medical findings is admissible without formal qualification as an expert if they state they are a practicing doctor. 3) A rape victim's use of terms like 'ravished' or 'raped' is sufficient to prove penetration. 4) The trial court need not instruct on circumstantial evidence unless the prosecution relies solely on it.",
+  "holding": "The Supreme Court affirmed Moorer's conviction and death sentence, holding: (1) the trial court properly denied the change of venue motion; (2) the physician’s testimony was admissible; (3) the victim’s testimony using 'rape' and 'ravish' sufficiently proved penetration; (4) no insanity defense instruction was required; and (5) the evidence supported the verdict.",
+  "link": "https://law.justia.com/cases/south-carolina/supreme-court/1963/241-s-c-487-0.html"
+},
+{
+   "case_name": "People v. Dancy (2002)",
+  "citation": "102 Cal. App. 4th 21",
+  "court": "California Court of Appeal, Sixth District",
+  "facts": "Defendant William Raymond Dancy was convicted of two counts of rape of an unconscious person, one count of inflicting corporal injury on a cohabitant, and one count of battery with serious bodily injury. The victim, Ilka A., was in a relationship with Dancy when she suffered severe injuries after losing consciousness during an altercation. While she was unconscious and recovering in a motel room, Dancy engaged in sexual intercourse with her on multiple occasions. The victim testified that she had previously consented to Dancy initiating sex while she was asleep, but during these incidents, she was in extreme pain and tried to tell him to stop. Dancy claimed he believed she had consented in advance based on their prior sexual practices.",
+  "legal_principle": "The court held that rape of an unconscious person under Penal Code section 261(a)(4) does not require proof of lack of consent as an element of the offense. The statute's language 'incapable of resisting' refers to the victim's actual lack of awareness rather than hypothetical lack of consent. The court also rejected the argument that 'advance consent' could be a defense, reasoning that consent to sexual intercourse is an ad hoc decision that cannot be given in advance for unconscious acts since the victim is deprived of the opportunity to withdraw consent during the act.",
+  "link": "https://caselaw.findlaw.com/ca-court-of-appeal/1038871.html"
+},
+{
+  "case_name": "Johnson v. State",
+  "citation": "193 Ga. App. 618, 388 S.E.2d 866 (1989)",
+  "court": "Court of Appeals of Georgia",
+  "facts": "Calvin C. Johnson, Jr. was convicted of rape, aggravated sodomy, and burglary. The victim testified that she was attacked in her apartment on March 8, 1983, where the assailant used a belt to strangle her, committed aggravated sodomy and rape, stole money, and left after covering her head with a pillowcase. The State introduced three other similar incidents involving the defendant: (1) an unlawful entry into Lisa Campbell’s apartment on March 6, 1983; (2) a rape and burglary of another victim on March 7, 1983, involving similar methods (belt strangulation, pillowcase, theft); and (3) an attempted break-in at Bonita Bedford’s apartment on March 9, 1983. The defendant argued that evidence of these other crimes was improperly admitted.",
+  "legal_principle": 
+    "Evidence of similar crimes or transactions is generally inadmissible under OCGA § 24-9-20(b) because it improperly places the defendant’s character in issue. Exceptions allow admission of similar crimes evidence if it shows identity, motive, plan, scheme, bent of mind, or course of conduct, provided: (1) the defendant was the perpetrator of the independent crime, and (2) there is sufficient similarity or connection between the independent crime and the charged offense. The trial court has discretion in determining admissibility of 'other crimes' evidence.The exception for admitting similar crimes evidence is applied more liberally in sexual offense cases."
+  ,
+  "link": "https://cite.case.law/ga-app/193/618/"
+},
+  {
+  "case_name": "United States v. Lovely",
+  "citation": "77 F. Supp. 619 (E.D.S.C. 1948)",
+  "court": "U.S. District Court for the Eastern District of South Carolina",
+  "facts": "The defendant, a First Lieutenant in the U.S. Army, was convicted of raping a 20-year-old virgin on government property at Fort Jackson, South Carolina. The prosecution introduced evidence of a prior rape by the defendant against another woman under similar circumstances 15 days earlier. The defendant initially claimed an alibi but later admitted to sexual intercourse while claiming it was consensual.",
+  "Legal_principle": "Evidence of prior similar offenses may be admissible to show intent, identity, motive, plan, scheme, or 'bent of mind' in rape cases, despite the general prohibition against character evidence. The court emphasized exceptions to the rule barring evidence of other crimes when it demonstrates a common design or pattern relevant to the charged offense.",
+  "link": "https://cite.case.law/f-supp/77/619/"
+},
+{
+  "case_name": "Davis v. Mississippi",
+  "citation": "394 U.S. 721 (1969)",
+  "court": "U.S. Supreme Court",
+  "facts": "During a rape investigation, police in Meridian, Mississippi, detained multiple Black youths, including the petitioner, without warrants. The petitioner, a 14-year-old, was fingerprinted and questioned multiple times. After being arrested without probable cause, his fingerprints matched those at the crime scene and were used to convict him. The Mississippi Supreme Court upheld the conviction, but the U.S. Supreme Court reversed.",
+  "legal_principle": 
+    "exclusionary_rule Fingerprint evidence obtained through unconstitutional seizures is inadmissible under the Fourth Amendment.fourth_amendment_scope. The Fourth Amendment applies to involuntary detentions at both investigatory and accusatory stages.detention_for_fingerprinting. Detentions solely for obtaining fingerprints must comply with Fourth Amendment constraints.potential_exceptions. The Court left open whether narrowly defined procedures (e.g., judicial oversight) could justify fingerprinting without probable cause, but none were followed here."
+,
+  "link": "https://supreme.justia.com/cases/federal/us/394/721/"
+},
+{
+  "case_name": "State v. Tili",
+  "citation": "148 Wash. 2d 350, 60 P.3d 1192 (2003)",
+  "court": "Supreme Court of Washington, En Banc",
+  "facts": "Defendant Fonotaga Tili broke into the victim's apartment, violently assaulted her with a metal pan, and committed multiple sexual assaults including vaginal and anal penetration while threatening to kill her. The attack was partially recorded on a 911 call. Tili was convicted of three counts of first-degree rape, first-degree burglary, and second-degree assault. The trial court initially imposed consecutive sentences for the rapes (totaling 417 months), but the Supreme Court remanded after finding the rapes constituted 'same criminal conduct' requiring concurrent sentences. On resentencing, the trial court imposed the same 417-month term as an exceptional sentence.",
+  "legal_principle": "1) Collateral estoppel does not bar imposition of an exceptional sentence on remand where the sentencing context materially changes (here, from consecutive to concurrent sentencing). 2) Deliberate cruelty (gratuitous violence beyond typical rape conduct) justifies an exceptional sentence. 3) Multiple penetrations may support an exceptional sentence under the 'multiple offense policy' when same-criminal-conduct rules would otherwise result in a clearly too lenient sentence.",
+  "link": "https://caselaw.findlaw.com/wa-supreme-court/1038872.html"
+},
+{
+  "case_name": "Nahkai Interrogation Custody Dispute (Dissent)",
+  "citation": "Appellate Case: 24-4058, Document: 48-1 (10th Cir. 2025)",
+  "court": "United States Court of Appeals for the Tenth Circuit",
+  "facts": "FBI agents interrogated Nahkai for 41 minutes in a police vehicle outside his home about sexual assault allegations without Miranda warnings. Agents (1) separated him from his wife, (2) used accusatory language ('you need to tell me'), and (3) referenced graphic details of allegations. The district court found this constituted custodial interrogation.",
+  "legal_principle": 
+    "Custodial interrogation occurs when a reasonable person would feel deprived of freedom to degree associated with arrest (functional equivalent test). Three factors determine custody: advisement of rights, nature of questioning, and police domination of encounter .Police domination assessed by: separation from family, isolation in controlled space, and compelling language"
+  ,
+  "link": "https://www.ca10.uscourts.gov/opinions/24/24-4058.pdf"
+},
+{
+  "case_name": "Commonwealth v. James K. Chretien",
+  "citation": "383 Mass. 123 (1981)",
+  "court": "Supreme Judicial Court of Massachusetts",
+  "facts": "Defendant James Chretien was convicted of raping his wife after breaking into her home, despite their marital status. The couple had separated in 1978, and the wife had obtained a divorce judgment nisi (pending finalization) prior to the February 1979 assault. The victim testified that Chretien forcibly entered her locked apartment, assaulted her, and compelled sexual intercourse through threats of violence while their children were present in the home. Medical evidence confirmed sexual contact and physical injuries.",
+  "legal_principle": "1) The 1974 revisions to Massachusetts' rape statutes (G.L. c. 265 §22 and c. 277 §39) eliminated the common law marital rape exemption by omitting the term 'unlawful' from the statutory definition. 2) Even under common law, a divorce judgment nisi terminates spousal consent to sexual relations. 3) Evidence of divorce proceedings was properly admitted as relevant to consent. 4) The rape shield law properly limited inquiry into the victim's sexual history where no factual basis existed for such questioning.",
+  "link": "https://caselaw.findlaw.com/ma-supreme-judicial-court/1038873.html"
+},
+{
+  "case_name": "State v. Sutherland",
+  "citation": "2025-Ohio-488",
+  "court": "Court of Appeals of Ohio, Second Appellate District",
+  "facts": "Defendant Jeffrey Scott Sutherland was convicted in 2021 of two counts of child rape. On appeal, one count was reduced to gross sexual imposition while the other rape conviction was affirmed. Sutherland later filed two petitions for postconviction relief alleging ineffective assistance of counsel and prosecutorial misconduct, supported by new evidence including counseling records and investigative reports. The trial court denied both petitions without a hearing, finding claims barred by res judicata or insufficient to warrant relief.",
+  "legal_principle": "1) Postconviction relief requires new evidence outside the trial record that would render the conviction void. 2) Res judicata bars claims that were or could have been raised at trial or on direct appeal. 3) Prosecutorial misconduct requires showing both impropriety and prejudice affecting substantial rights. 4) Courts may deny postconviction petitions without hearings when allegations lack substantive grounds for relief.",
+  "link": "[No public link available - Ohio unreported case]"
+},
+{
+  "case_name": "Smith v. State (Probation Officer Immunity Case)",
+  "citation": "Alaska Supreme Court No. S-7750 (2024)",
+  "court": "Supreme Court of Alaska",
+  "facts": "Probation officer Farrar failed to take action against Harrison despite multiple violations of a domestic violence protective order (DVPO) that was part of his probation conditions. Harrison later assaulted his ex-partner Smith, who sued the state for negligent probation supervision. The state claimed discretionary function immunity protected Farrar's decisions.",
+  "legal_principle": 
+    "Discretionary function immunity protects policy-level decisions about probation supervision but not day-to-day operational duties .Probation officers must investigate known violations (non-discretionary duty) .Decisions about scope/depth of investigation after initial inquiry are discretionary. Immunity applies unless officer violates mandatory policy directives"
+  ,
+  "link": "https://public.courts.alaska.gov/web/opinions.htm"
+},
+    {
+  "case_name": "People v. Van De Wouwer",
+  "citation": "91 Cal. App. 2d 634 (1949)",
+  "court": "California Court of Appeal, Third District",
+  "facts": "Defendant Peter Van De Wouwer was convicted of two separate rapes and one robbery. The first rape involved Sedona Yarger in June 1948, where he entered her trailer posing as a buyer and assaulted her at gunpoint. The second incident involved newlyweds Myrna and John Everson in March 1948, where he robbed the husband at gunpoint and raped the wife. Both victims positively identified defendant, noting distinctive features including his Navy clothing, dark glasses, and distinctive nose. The cases were consolidated for trial over no objection.",
+  "legal_principle": 
+    "Consolidation of similar charges is discretionary when offenses are of same class (Penal Code §954). Identity may be established by distinctive features/clothing without perfect description match. Jury instructions on witness credibility must address contradictions in testimony. Prosecutorial misconduct claims require specific objections/record references"
+  ,
+  "link": "https://cite.case.law/cal-app2d/91/634/"
+},
+{
+  "case_name": "D'Corya White v. Commonwealth of Kentucky",
+  "citation": "2025-SC-0021-MR",
+  "court": "Supreme Court of Kentucky",
+  "facts": "Defendant D'Corya White was convicted of first-degree robbery, kidnapping, and firearm possession for carjacking a victim at gunpoint at Simmons College. Evidence included surveillance footage matching White's clothing, DNA evidence from the stolen vehicle that could not exclude White, and recovered items (jacket, gun, and shirt) found at his mother's residence where he was arrested. The victim's vehicle was tracked via FordPass and Apple AirTag to White's location.",
+  "legal_principle": "1) Still photographs from surveillance video are admissible without expert authentication when derived from properly authenticated source footage. 2) Circumstantial evidence including DNA, clothing matches, and tracking technology can sufficiently support convictions even without direct eyewitness identification. 3) Unpublished Kentucky appellate decisions may be cited for consideration if no published opinion addresses the issue.",
+  "link": "[Unpublished opinion - Not for citation per Kentucky RAP 40(D)]"
+}
+    ],
+
+
+    "Assult":[
+{
+  "case_name": "Erlinger v. United States",
+  "citation": "602 U.S. ___ (2024)",
+  "court": "Supreme Court of the United States",
+  "facts": "Paul Erlinger pleaded guilty to being a felon in possession of a firearm (18 U.S.C. §922(g)). At resentencing, the government sought an enhanced penalty under the Armed Career Criminal Act (ACCA) based on 26-year-old burglary convictions. Erlinger argued the burglaries constituted a single criminal episode, not separate occasions as ACCA requires, and that the Fifth and Sixth Amendments entitled him to a jury determination on this factual issue.",
+  "legal_principle": "1) The Fifth and Sixth Amendments require a unanimous jury to determine beyond a reasonable doubt whether prior offenses were committed on separate occasions for ACCA sentencing enhancements. 2) The 'narrow exception' allowing judges to find only the fact of prior convictions (Almendarez-Torres) does not extend to the separate-occasions determination under ACCA. 3) Sentencing factors that increase mandatory minimums must be proved to a jury under Apprendi v. New Jersey.",
+  "link": "https://www.supremecourt.gov/opinions/23pdf/23-370_8o6a.pdf"
+},
+{
+  "case_name": "Garratt v. Dailey",
+  "citation": "46 Wn.2d 197, 279 P.2d 1091 (1955)",
+  "court": "Supreme Court of Washington",
+  "facts": "Five-year-old Brian Dailey moved a lawn chair while Ruth Garratt was attempting to sit down, causing her to fall and sustain serious injuries. At trial, conflicting testimony emerged about whether Brian acted intentionally. The trial court found Brian lacked intent to harm but remanded for clarification on whether he knew with substantial certainty his actions would cause Garratt to fall.",
+  "legal_principle": 
+    "Children can be liable for torts if they possess the required mental state. Battery requires intent to cause harmful/offensive contact OR knowledge with substantial certainty such contact will occur. Age is relevant only to determine child's knowledge/capacity, not liability standard .Substantial certainty satisfies intent requirement regardless of malicious purpose"
+  ,
+  "link": "https://law.justia.com/cases/washington/supreme-court/1955/32841-1.html"
+},
+{
+  "case_name": "Watson v. Taylor",
+  "citation": "1913 OK 253, 131 P. 922, 35 Okla. 768",
+  "court": "Supreme Court of Oklahoma",
+  "facts": "Marietta Taylor, a 17-year-old unmarried female of previously chaste character, sued H.F. Watson for damages after alleging he raped her on January 14, 1906. Taylor testified Watson entered her room at night while she was staying at his home, threatened her, and had non-consensual intercourse despite her protests. Watson denied all allegations. Taylor became pregnant and gave birth to a child in October 1906.",
+  "legal_principle": 
+    "Rape of a female gives civil cause of action against perpetrator. Statutory rape under Oklahoma law requires only proof of intercourse with female 16-18 years old of previous chaste character (no force/consent required). Consent is not defense to civil action for statutory rape. Child born from alleged rape may be exhibited to jury as evidence",
+  "link": "https://cite.case.law/okla/35/768/"
+},
+{
+  "case_name": "New Mexico Assault Statute (NM Stat § 30-3-1)",
+  "citation": "2024 NM Stat § 30-3-1",
+  "court": "New Mexico Statutes (Legislative)",
+  "facts": "New Mexico's assault statute defines three types of assault: (A) attempted battery, (B) threatening conduct causing reasonable fear of immediate battery, and (C) using insulting language impugning another's honor/reputation. The statute establishes assault as a petty misdemeanor offense.",
+  "legal_principle": 
+    "Assault requires either attempted battery OR reasonable belief of imminent battery OR insulting language. No specific intent required - general criminal intent suffices. Subsection C (insulting language) may raise First Amendment concerns. Battery and assault are distinct offenses (battery doesn't require apprehension)",
+  "link": "https://law.justia.com/codes/new-mexico/2024/chapter-30/article-3/section-30-3-1/"
+},
+{
+  "case_name": "People v. Kenyatta",
+  "citation": "2025 NY Slip Op 03977, Appellate Division, First Department",
+  "court": "New York Supreme Court, Appellate Division, First Department",
+  "facts": "Defendant Charles Kenyatta was convicted of attempted first-degree assault, second-degree assault, and two counts of second-degree weapon possession for shooting a victim. The prosecution relied on surveillance footage, medical testimony, and distinctive jewelry found on defendant. The victim did not cooperate and allegedly mentioned an argument with someone named 'Tommy' at the hospital.",
+  "legal_principle": 
+    "Attempted assault in first degree doesn't require proof of actual physical injury (distinct from completed second-degree assault).Prosecutors may argue witness intimidation based on violent nature of crime. Grand jury proceedings not impaired by omission of ambiguous hearsay statements. Non-inclusory concurrent counts may both be submitted to jury when elements differ",
+  "link": "https://law.justia.com/cases/new-york/appellate-division-first-department/2025/ind-no-1192-21-appeal-no-4661-case-no-2022-03375.html"
+},
+{
+  "case_name": "Colorado Second-Degree Assault Statute (CRS § 18-3-203)",
+  "citation": "2024 CO Rev Stat § 18-3-203",
+  "court": "Colorado Revised Statutes (Legislative)",
+  "facts": "Colorado's second-degree assault statute defines multiple ways the offense can be committed, including: causing bodily injury with a deadly weapon, injuring first responders performing duties, reckless serious bodily injury with a deadly weapon, administering drugs without consent, assaulting confined persons, and strangulation. Penalties range from class 6 to class 3 felonies depending on circumstances.",
+  "legal_principle": 
+    "Second-degree assault requires either intent to injure OR reckless conduct with deadly weapon. Enhanced penalties apply for assaults on peace officers/first responders and strangulation cases. 'Heat of passion' reduction available only for immediate provocation (excludes gender/sexual orientation factors). Mandatory sentencing applies for certain serious assaults during violent felonies"
+  ,
+  "link": "https://law.justia.com/codes/colorado/title-18/article-3/part-2/section-18-3-203/"
+},
+{
+  "case_name": "State v. Chowdhury",
+  "citation": "2025 Ga. App. LEXIS [pending]",
+  "court": "Court of Appeals of Georgia, First Division",
+  "facts": "Defendant Arafat Chowdhury faces separate rape and aggravated sodomy charges involving two victims met through dating apps. The State sought to introduce evidence of each incident in the trial for the other under OCGA § 24-4-413 (similar acts evidence). The trial court denied the motion, and the State appealed.",
+  "legal_principle": 
+    "Other acts evidence may be admissible under OCGA § 24-4-413 to show pattern of sexual behavior. Courts must weigh probative value against unfair prejudice under Rule 403. Similarity of acts (dating app meetings, progression from consensual to non-consensual acts) key to admissibility analysis. Standard of review is abuse of discretion for evidentiary rulings"
+  ,
+  "link": "https://law.justia.com/cases/georgia/court-of-appeals/2025/a24a1414.html" 
+},
+
+{
+  "case_name": "State v. Stewart",
+  "citation": "73 Wn.2d 701, 440 P.2d 815 (1968)",
+  "court": "Supreme Court of Washington",
+  "facts": "Defendant Shedrick Stewart was convicted of second-degree assault and second-degree murder after pointing a rifle at his brother-in-law during an altercation, which discharged and killed a bystander. The case centered on whether the assault required proof of specific intent to cause harm.",
+  "legal_principle": [
+    "Second-degree assault requires only willful use of a dangerous weapon, not specific intent to harm",
+    "'Willfully' means intentionally and designedly, not accidentally",
+    "Victim's apprehension is not a required element of assault",
+    "Failure to request lesser included offense instructions waives the issue on appeal"
+  ],
+  "link": "https://law.justia.com/cases/washington/supreme-court/1968/39433-1.html"
+},
+{
+  "case_name": "Watson v. State",
+  "citation": "227 S.W.2d 559 (Tex. Crim. App. 1950)",
+  "court": "Texas Court of Criminal Appeals",
+  "facts": "Defendant Watson was convicted of robbery after confessing to choking a woman unconscious and stealing her money. The victim was found dead with no visible injuries. The case centered on whether the confession was sufficiently corroborated by evidence of the corpus delicti (proof the crime occurred).",
+  "legal_principle": [
+    "Corpus delicti must be proven independently of a confession",
+    "For robbery, corpus delicti requires proof property was taken by assault/fear (not necessarily violence)",
+    "Confession can be used to supplement circumstantial evidence of corpus delicti",
+    "Death before/after taking immaterial if taking enabled by antecedent assault"
+  ],
+  "link": "https://cite.case.law/sw2d/227/559/"
+},
+{
+  "case_name": "Streitmatter v. State",
+  "citation": "1999 WY 78, 981 P.2d 921",
+  "court": "Supreme Court of Wyoming",
+  "facts": "Elmer Streitmatter was convicted of aggravated assault under Wyo. Stat. Ann. § 6-2-502(a)(iii) for threatening his ex-wife with knives during a domestic altercation. He appealed, challenging the constitutionality of the statute (arguing it lacked a mental element and was vague), jury instructions, admission of hearsay testimony from the victim and her daughter, and exclusion of evidence about his mental/physical condition.",
+  "Legal_Principle": [
+    "Aggravated assault under § 6-2-502(a)(iii) is a general intent crime requiring only intent inferred from the act itself (threatening with a deadly weapon).",
+    "The statute is not unconstitutionally vague—'threatens to use' means an actual threat of physical injury, excluding innocent conduct (e.g., theatrical performances).",
+    "Jury instructions need only fairly cover the elements of the crime; no technical redefinition of 'threaten' or 'general intent' was required.",
+    "Hearsay statements qualified as excited utterances (W.R.E. 803(2)) where victims were still hysterical 45 minutes after the event.",
+    "Evidence of mental/physical conditions (e.g., PTSD, addiction) is irrelevant to general intent crimes absent a mental illness plea under Wyo. Stat. Ann. § 7-11-304."
+  ],
+  "link": "https://law.justia.com/cases/wyoming/supreme-court/1999/124112.html"
+},
+{
+  "case_name": "Henry Joseph Jaquez v. Kelly Birch, et al.",
+  "citation": "Case No. 14-CV-205-JED-FHM (consolidated with 14-CV-380-JED-FHM)",
+  "court": "United States District Court for the Northern District of Oklahoma",
+  "facts": "Pro se prisoner Henry Joseph Jaquez filed a § 1983 civil rights action alleging sexual assault and other violations during his custody at Creek County Jail (CCJ). Defendants filed a motion to dismiss or for summary judgment (Doc. 38). Despite multiple extensions and a final warning (Doc. 46), Jaquez failed to respond, leading the court to deem Defendants' facts admitted under LCvR 56.1(c).",
+  "Legal_Principle": [
+    "A non-moving party’s failure to respond does not automatically grant summary judgment; courts must independently review the record (*Reed v. Bennett*).",
+    "Local Rule LCvR 56.1(c) deems uncontroverted material facts in a summary judgment motion admitted if the opposing party fails to specifically dispute them."
+  ],
+  "link": "https://www.casemine.com/judgement/us/5914f71badd7b049349935c9"
+},
+{
+  "case_name": "Chris Beason Taffner v. State of Arkansas",
+  "citation": "2018 Ark. 99",
+  "court": "Supreme Court of Arkansas",
+  "facts": "Taffner, an adoptive parent, was convicted of two counts of rape and three counts of second-degree sexual assault involving foster children (MG, BT, and KT). The charges arose from allegations of inappropriate touching, forced penetration, and coerced oral sex. Taffner appealed, challenging evidentiary rulings and jury selection issues.",
+  "legal_principle": [
+    "Directed verdict: Sufficient evidence supported convictions under Ark. Code Ann. §§ 5-14-103 (rape) and 5-14-125 (sexual assault).",
+    "Evidentiary rulings: Trial court has discretion to exclude impeachment evidence under Ark. R. Evid. 608(b) if prejudicial.",
+    "Juror misconduct: Failure to disclose material information during voir dire may warrant new trial under Ark. R. Crim. P. 33.3.",
+   "Clarifies standards for: (1) reviewing sexual-assault convictions involving minor victims, (2) impeachment of child witnesses, and (3) juror disclosure obligations in sensitive cases."
+  ],
+  "link": "https://law.justia.com/cases/arkansas/supreme-court/2018/cr-16-1024.html"
+}
+    
+],
+ "Theft": [
+{
+  "case_name": "United States v. Turley",
+  "citation": "352 U.S. 407 (1957)",
+  "court": "U.S. Supreme Court",
+  "facts": "Defendant obtained possession of a car in South Carolina with the owner's permission for limited use, but then drove it to Maryland and sold it without authorization. The government charged him under the Dyer Act for transporting a 'stolen' vehicle in interstate commerce, though the taking constituted embezzlement rather than common law larceny.",
+  "Legal_principle": "The term 'stolen' in the Dyer Act (18 U.S.C. §2312) is not limited to common law larceny, but includes all felonious takings with intent to deprive the owner of rights of ownership, encompassing embezzlement and other theft crimes. Federal criminal statutes should not depend on diverse state laws absent clear congressional intent.",
+  "link": "https://supreme.justia.com/cases/federal/us/352/407/"
+},
+{
+  "case_name": "Milanovich v. United States",
+  "citation": "365 U.S. 551 (1961)",
+  "court": "U.S. Supreme Court",
+  "facts": "Petitioners, a husband and wife, were convicted in federal court for stealing government property under 18 U.S.C. § 641. The wife was also convicted on a separate count for receiving and concealing part of the stolen property. The husband received a five-year sentence, while the wife received a ten-year sentence for larceny and a five-year concurrent sentence for receiving. The Court of Appeals upheld the larceny convictions but reversed the wife's receiving conviction, leaving only her ten-year larceny sentence intact.",
+  "legal_principle": [
+    "A defendant cannot be convicted under § 641 for both stealing and receiving the same property (Hein v. United States precedent).",
+    "The trial judge erred by not instructing the jury that it could convict the wife of either larceny or receiving, but not both.",
+    "Since it was unclear whether a properly instructed jury would have convicted the wife of larceny, receiving, or neither, merely setting aside the receiving sentence did not cure the prejudice—requiring a new trial for the wife."
+  ],
+  "link": "https://supreme.justia.com/cases/federal/us/365/551/"
+},
+{
+  "case_name": "Maryland Criminal Law - Theft Provisions",
+  "citation": "MD Crim Law Code § 7-104 (2024)",
+  "court": "Maryland State Legislature",
+  "facts": "The statute defines multiple forms of theft, including: (1) unauthorized control of property with intent to deprive, (2) obtaining property by deception, (3) possession of stolen property, (4) failure to return lost/mislaid property, and (5) theft of services. It establishes value-based penalties ranging from misdemeanors to felonies.",
+  "Legal_principle": "1. Theft requires intent to deprive owner of property/services\n2. Includes constructive theft (possession of stolen goods)\n3. Establishes tiered penalties based on property value ($100-$100,000+)\n4. Special provisions for repeat offenders and fuel theft\n5. 2-year statute of limitations for petty theft",
+  "link": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcr§ion=7-104"
+},
+{
+  "case_name": "Georgia Code - Theft by Taking",
+  "citation": "GA Code § 16-8-2 (2024)",
+  "court": "Georgia General Assembly (Statutory Law)",
+  "facts": "Defines the offense when a person unlawfully takes or appropriates another's property with intent to deprive the owner, regardless of method.",
+  "Legal_principle": [
+    "Theft occurs through unlawful taking OR lawful possession turned unlawful appropriation",
+    "Requires intent to deprive the owner of their property",
+    "Applies to all methods of taking without technical distinctions"
+  ],
+  "link": "https://law.justia.com/codes/georgia/2024/title-16/chapter-8/article-1/section-16-8-2/"
+},
+{
+  "case_name": "People v. Williams",
+  "citation": "2025 NY Slip Op 00901",
+  "court": "New York Court of Appeals",
+  "facts": "Defendant Raymond Williams was convicted of third-degree burglary for entering a CVS store (where he was banned via trespass notice) and taking Red Bull energy drinks. Surveillance footage showed him retrieving the drinks but not attempting to exit without paying before being confronted by staff. He argued insufficient evidence of intent to steal at entry.",
+  "Legal_principle": [
+    "Burglary requires proof of unlawful entry *with intent to commit a crime inside* (Penal Law § 140.20).",
+    "A jury may infer intent from furtive behavior and prior trespass notice, even if innocent explanations exist.",
+    "Confessions require corroboration (CPL 60.50), but unpreserved arguments need not be reviewed.",
+    "Dissent: No rational jury could find intent to steal from conduct; prosecution reflected overcharging of petty theft."
+  ],
+  "link": "https://www.nycourts.gov/reporter/3dseries/2025/2025_00901.htm"
+},
+{
+  "case_name": "United States v. Percell",
+  "citation": "No. 24-1076 (3d Cir. 2025)",
+  "court": "United States Court of Appeals for the Third Circuit",
+  "facts": "Defendant Anthony Percell used the identity of a deceased friend (D.S.) for nearly 30 years, including to fraudulently obtain a passport. He pleaded guilty to aggravated identity theft under 18 U.S.C. §1028A(a)(1) but appealed, arguing the statute doesn't cover use of a deceased person's identity.",
+  "Legal_principle": "1. Arguments not raised in district court motions to dismiss are forfeited on appeal (Fed. R. Crim. P. 12)\n2. Preservation requires making the *same argument* below, not just related issues\n3. Passing judicial commentary doesn't preserve unpresented arguments",
+  "link": "https://www2.ca3.uscourts.gov/opinarch/241076np.pdf"
+},
+{
+  "case_name": "State v. Bret",
+  "citation": "318 Neb. 995 (2025)",
+  "court": "Nebraska Supreme Court",
+  "facts": "Defendant Melissa Bret was convicted of shoplifting items worth $77.64 and sentenced as a Class IV felon due to alleged prior convictions. The State failed to present evidence of prior convictions at sentencing, though the presentence report referenced them. Bret appealed the enhanced felony classification.",
+  "Legal_principle": "1. Sentence enhancement requires separate hearing with evidence of prior convictions\n2. State bears burden to prove priors by preponderance of evidence\n3. Improper enhancement renders sentence illegal\n4. Failure to prove priors doesn't waive right to attempt proof on remand",
+  "link": "https://supreme.nebraska.gov/cases/318-neb-995"
+},
+{
+  "case_name": "People v. Gray",
+  "citation": "2025 WL [To Be Assigned] (Cal. Ct. App.)",
+  "court": "California Court of Appeal, Third District",
+  "facts": "Defendant David Wayne Gray was convicted of second-degree burglary of a vehicle and attempted second-degree burglary for cutting locks on utility compartments of electricians’ trucks to steal wire/tools. One theft succeeded; another failed (no items in truck).",
+  "Legal_principle": [
+    "Burglary of a vehicle (§ 459) requires unlawful entry into a vehicle’s interior space with intent to commit theft.",
+    "Substantial evidence standard: Jury’s verdict upheld if rational trier of fact could find guilt beyond reasonable doubt (Fourteenth Amendment).",
+    "Cutting external locks to access secured cargo compartments constitutes entry into a vehicle’s interior for burglary purposes."
+  ],
+  "link": "https://www.courts.ca.gov/opinions-nonpub.htm (hypothetical; case pending publication)"
+},
+{
+  "case_name": "People v. R.O.",
+  "citation": "Docket No. FYC-70931-25/001 (N.Y. Youth Part 2025)",
+  "court": "Erie County Youth Part, New York",
+  "facts": "16-year-old defendant arrested for possessing loaded 10mm handgun with extended magazine during shoplifting incident at mall. Charged with weapon possession and petit larceny. First-time offender with no injury or property damage alleged.",
+  "Legal_principle": "1. 'Extraordinary circumstances' standard under CPL §722.23 requires highly unusual/heinous facts + proof defendant won't benefit from Family Court services\n2. Mere possession of loaded firearm during non-violent offense insufficient for extraordinary circumstances\n3. Legislative intent favors rare denial of transfers to Family Court",
+  "link": "https://www.nycourts.gov/reporter/3dseries/2025/2025_XXXXX.htm"
+},
+{
+  "case_name": "Commonwealth v. Jones",
+  "citation": "No. 2313 EDA 2024 (Pa. Super. Ct. 2025)",
+  "court": "Superior Court of Pennsylvania",
+  "facts": "Defendant Savon Jones pleaded guilty to first-degree misdemeanor theft (18 Pa.C.S.A. §3921(a)) in a negotiated plea deal requiring DNA submission and $250 fee. He later challenged the DNA requirement as an illegal sentence for a misdemeanor offense.",
+  "Legal_principle": "1. Anders brief procedure applies to challenges of negotiated plea terms\n2. DNA collection mandate applies only to felony convictions under 44 Pa.C.S. §2316\n3. Plea agreements waive challenges to non-illegal sentence terms",
+  "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S05034-25.pdf"
+},
+{
+  "case_name": "Commonwealth of Pennsylvania v. Kenneth Eugene Rapp",
+  "citation": "2025 PA Super 16 (No. 814 WDA 2023)",
+  "court": "Superior Court of Pennsylvania",
+  "facts": "Rapp pleaded guilty to theft by unlawful taking (18 Pa.C.S. § 3921(a)) for stealing natural gas from Emkey Gathering, LLC. Emkey detected a gas loss via pipeline meters, traced it to an illegal underground tap diverting gas, and involved Pennsylvania State Police. Rapp contested the restitution amount ordered for the theft.",
+  "legal_principle": [
+    "restitution_validity, Restitution orders must be supported by evidence of the victim’s actual losses and cannot be speculative. The court affirmed the amended restitution order, finding Emkey’s gas loss calculations and repair costs sufficiently proven.",
+    "expert_testimony, Expert testimony (Emkey’s president) established the methodology for quantifying stolen gas and costs to repair the pipeline."
+ ],
+  "link": "https://www.pacourts.us/OpPosting/Superior/out/J-A26028-24.pdf"
+},
+{
+  "case_name": "People of the State of New York v. James Markellos",
+  "citation": "2020 NY Slip Op 51236(U) (Supreme Court, Nassau County)",
+  "court": "Supreme Court of New York, Nassau County",
+  "facts": "Defendant was indicted for multiple counts of grand larceny (3rd/4th degree), petit larceny, and criminal mischief for allegedly stealing landscaping equipment/trailers from 8 contractors between July-August 2019. The court reviewed the sufficiency of grand jury evidence regarding property valuation and the validity of CSLI/search warrants.",
+  "legal_principle": [
+    "grand_jury_sufficiency. Grand jury evidence must provide prima facie proof of each element (Penal Law §§ 155.35/155.30). Market value (not replacement cost) is required unless market value cannot be ascertained (Penal Law § 155.20(1)).",
+    "valuation_standard. For grand larceny charges, the People failed to prove market value of stolen items met statutory thresholds ($3,000 for 3rd degree; $1,000 for 4th degree). Testimony about replacement costs/purchase prices alone was insufficient without evidence of item condition/age.",
+    "search_warrants. CSLI and physical search warrants were valid as affidavits established probable cause linking defendant’s phone/car to the crimes through witness accounts, surveillance, and tracking data."
+ ],
+  "link": "https://www.nycourts.gov/reporter/3dseries/2020/2020_51236.htm"
+}
+ ],
+
+  "Robbery": [
+    {
+  "case_name": "Simmons v. United States",
+  "citation": "390 U.S. 377 (1968)",
+  "court": "U.S. Supreme Court",
+  "facts": "Petitioners Simmons and Garrett were convicted of robbing a federally insured savings and loan association. The case involved pretrial identification through photographs, which Simmons claimed was unduly prejudicial. Garrett contested the admission of his testimony from a suppression hearing, where he claimed ownership of a suitcase containing incriminating evidence, which was later used against him at trial.",
+  "Legal_Principle": "1) Pretrial identification by photographs does not violate due process unless the procedure is 'so impermissibly suggestive as to give rise to a very substantial likelihood of irreparable misidentification.' 2) A defendant's testimony at a suppression hearing to establish standing under the Fourth Amendment cannot later be admitted against them at trial on the issue of guilt unless they consent.",
+  "link": "https://supreme.justia.com/cases/federal/us/390/377/"
+},
+{
+  "case_name": "Scotty Shirley Hanks, Appellant, v. United States of America, Appellee",
+  "citation": "388 F.2d 171",
+  "court": "US Court of Appeals for the Tenth Circuit",
+  "facts": "Hanks was convicted of robbing a U.S. Post Office substation in Kansas City, Kansas, where he assaulted the postmaster with a shotgun, stole money and postal money orders, and put the postmaster's life in jeopardy. Hanks was identified by the victim, and his handwriting was matched to stolen money orders cashed after the robbery. He also fled jurisdiction before trial, which was presented as evidence of guilt.",
+  "Legal_Principle": "The court upheld the conviction, ruling that (1) the Jencks Act did not require production of non-verbatim investigative reports, (2) the pre-trial identification procedure did not violate due process under the totality of circumstances, (3) evidence of stolen money orders was admissible despite showing other crimes, (4) evidence of flight was admissible, and (5) no plain error occurred in jury instructions.",
+  "link": "https://cite.case.law/f2d/388/171/"
+},
+{
+  "case_name": "United States v. Wade",
+  "citation": "388 U.S. 218 (1967)",
+  "court": "U.S. Supreme Court",
+  "facts": "Defendant was compelled to participate in a post-indictment lineup without counsel present, where he was identified by witnesses. The lineup involved wearing tape like the robber and repeating words used during the crime.",
+  "Legal_Principle": "1) Post-indictment lineups are a 'critical stage' requiring Sixth Amendment right to counsel. 2) Compelling physical characteristics (appearance/voice) in lineups doesn't violate Fifth Amendment privilege against self-incrimination.",
+  "link": "https://supreme.justia.com/cases/federal/us/388/218/"
+},
+{
+  "case_name": "Wylie v. Northampton Bank",
+  "citation": "119 U.S. 361 (1886)",
+  "court": "U.S. Supreme Court",
+  "facts": "Plaintiff deposited bonds with the defendant bank for safekeeping. Burglars stole the bonds along with other securities from the bank's vaults. The bank attempted to recover the stolen property, including negotiating with the burglars. Plaintiff alleged the bank negligently failed to recover her bonds and sacrificed her interests to recover its own property.",
+  "Legal_Principle": "1) A bank's mere loss of deposited securities due to burglary is not proof of negligence. 2) A bank may lawfully act as an agent to recover stolen property for depositors, but liability arises only if it fails to exercise due care in such efforts. 3) No liability exists absent proof of an agency agreement or negligent performance of recovery efforts.",
+  "link": "https://supreme.justia.com/cases/federal/us/119/361/"
+},
+{
+  "case_name": "John D. Lawrence v. United States",
+  "citation": "357 F.2d 434 (10th Cir. 1966)",
+  "court": "U.S. Court of Appeals for the Tenth Circuit",
+  "facts": "Defendant Lawrence was convicted of aiding and abetting a bank robbery based largely on inconsistent testimony from accomplices. The prosecution improperly impeached a defense witness (co-defendant Collins) by reading a statement from Collins' attorney during sentencing that blamed Lawrence for planning the robbery, despite Collins testifying under oath that Lawrence was uninvolved.",
+  "Legal_Principle": "1) Improper impeachment with a third-party attorney's prejudicial statement constitutes reversible error if its impact cannot be cured by jury admonishment. 2) An indictment charging a defendant as a principal is sufficient to sustain a conviction for aiding and abetting under 18 U.S.C. § 2.",
+  "link": "https://law.justia.com/cases/district-of-columbia/court-of-appeals/1989/87-313-4.html"
+},
+{
+  "case_name": "Commonwealth v. William F. Englehart",
+  "citation": "27 Mass. App. Ct. 1201",
+  "court": "Massachusetts Appeals Court",
+  "facts": "Defendant was convicted of armed robbery of a Brockton bank on January 30, 1981. The prosecution relied on (1) a customer's identification of the robber (the teller's identification was suppressed) and (2) blurry surveillance photos. The defendant presented an alibi defense with witnesses claiming he was working in Chicago during the robbery period. In rebuttal, the prosecution introduced clearer bank surveillance photos from a different bank (North Easton Savings Bank) six weeks prior to show the defendant was in Massachusetts, contradicting his alibi timeline.",
+  "Legal_Principle": "The court upheld the admission of prior bank surveillance photos under the 'prior bad acts' balancing test, finding they were relevant to impeach the alibi defense despite potential prejudice. The trial judge's discretion in weighing probative value versus prejudice was affirmed, especially given strong cautionary instructions. The court also rejected claims of improper photo array identification (raised for the first time on appeal).",
+  "link": "https://law.justia.com/cases/massachusetts/court-of-appeals/volumes/27/27massappct1201.html"
+},
+{
+  "case_name": "People v. Smith",
+  "citation": "2017 NY Slip Op 02362 (N.Y. 2017)",
+  "court": "New York Court of Appeals",
+  "facts": "Defendant entered a check-cashing store, demanded money while holding his hand under his sweatshirt, and repeatedly stated he had a gun. No firearm was found when he was arrested shortly after the attempted robbery.",
+  "Legal_Principle": "1) A defendant 'displays what appears to be a firearm' under NY Penal Law §160.15(4) if their conduct could reasonably lead the victim to believe a gun is being used, even if no object is visibly shown. 2) A concealed hand under clothing can satisfy this element when combined with verbal threats indicating possession of a firearm.",
+  "link": "https://law.justia.com/cases/new-york/court-of-appeals/2017/23.html"
+},
+{
+  "case_name": "People v. David Vaughn",
+  "citation": "2024 NY Slip Op 05874",
+  "court": "New York Court of Appeals",
+  "facts": "Defendant was convicted of robbery based largely on eyewitness identifications by two Asian victims who identified him (a Black man) as the perpetrator. The trial court limited defense expert testimony to cross-race effect, excluding testimony on other reliability factors (stress, weapon focus, confidence-accuracy correlation) despite defendant's mid-trial request.",
+  "Legal_Principle": "1) Trial courts have discretion to admit/reject eyewitness ID expert testimony based on relevance, general scientific acceptance, and balancing probative value against trial delay/prejudice. 2) Corroborating evidence does not categorically bar such testimony, but courts may consider it among other factors. 3) No rigid two-step test requiring corroboration analysis first.",
+  "link": "https://law.justia.com/cases/new-york/court-of-appeals/2024/103.html"
+},
+{
+  "case_name": "People v. Charles E. Graves",
+  "citation": "263 Cal. App. 2d 719",
+  "court": "California Court of Appeal, First District",
+  "facts": "Defendant was convicted of five counts of first-degree robbery and marijuana possession. The robberies occurred at service stations in Oakland and Alameda over three days in February 1966, with a similar modus operandi each time. Defendant was identified by victims in a lineup and through surveillance photos. His defense was alibi, claiming he was on a drinking binge in Chicago during the robberies. Marijuana was found during a search incident to his arrest on traffic warrants.",
+  "Legal_Principle": "1) Giving CALJIC No. 78 intoxication instruction in specific intent crimes is error but found harmless here; 2) Search incident to traffic arrest may be for weapons only unless probable cause exists for other crimes; 3) Prosecutorial misconduct (referencing unproven prior arrest) was non-prejudicial given overwhelming evidence; 4) Lineup with similar participants does not violate due process.",
+  "link": "https://law.justia.com/cases/california/court-of-appeal/2d/263/719.html"
+},
+{
+  "case_name": "People v. Bacon",
+  "citation": "2025 NY Slip Op 03692 (N.Y. 2025)",
+  "court": "New York Court of Appeals",
+  "facts": "Defendant was convicted of robbery and assault based on police testimony recounting victims' out-of-court statements identifying him as the perpetrator. The victims, who were treated by EMTs after the incident but did not testify at trial, described the assailants to police during questioning after the immediate emergency had passed.",
+  "Legal_Principle": "1) Testimonial out-of-court statements violate the Confrontation Clause when admitted without cross-examination unless made during an ongoing emergency. 2) Preservation of constitutional claims requires timely objection that alerts the trial court to the specific constitutional issue.",
+  "link": "https://law.justia.com/cases/new-york/court-of-appeals/2025/60.html"
+},
+{
+  "case_name": "Mark Stubblefield v. United States",
+  "citation": "No. 23-CF-0982 (D.C. Ct. App. June 26, 2025)",
+  "court": "District of Columbia Court of Appeals",
+  "facts": "Defendant robbed a Truist Bank by claiming to have a bomb (pointing to his bag) but never displayed one. Two tellers testified they felt fear but were never asked if they subjectively believed he had a bomb; one later stated he did not actually believe it. No bomb was found. Defendant was convicted of armed robbery under D.C. Code § 22-4502(a).",
+  "Legal_Principle": "1) For armed robbery, the government must prove defendant was actually armed with a dangerous weapon **or** that victims subjectively believed he was. 2) Mere creation of fear is insufficient—the government failed to prove either the existence of a bomb or the tellers' genuine belief in one.",
+  "link": "https://law.justia.com/cases/district-of-columbia/court-of-appeals/2025/23-cf-0982.html" 
+},
+{
+  "case_name": "Johnson v. USA",
+  "citation": "No. 19-55717 (9th Cir. 2025)",
+  "court": "United States Court of Appeals for the Ninth Circuit",
+  "facts": "Defendant Antoine Johnson was convicted of conspiracy to commit Hobbs Act robbery, Hobbs Act robbery, and using/discharging a firearm causing death during a crime of violence (18 U.S.C. §924(c)) during an armored truck robbery where a guard was killed. Johnson challenged his §924(c) conviction, arguing it relied on an invalidated residual clause for 'crime of violence' predicates.",
+  "Legal_Principle": "1) Hobbs Act robbery qualifies as a valid predicate 'crime of violence' under §924(c)'s elements clause. 2) Jury instruction errors involving alternative theories (one valid and one invalid predicate) may be harmless if no reasonable juror could have convicted based solely on the invalid theory.",
+  "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/24-3919/24-3919-2025-03-20.html"
+}
+  ],
+
+    "Burglary": [
+    {
+  "case_name": "People v. Octavio Rivera",
+  "citation": "2025 NY Slip Op 03362",
+  "court": "New York Supreme Court, Appellate Division, Third Department",
+  "facts": "Defendant was convicted of second-degree burglary for entering a home in Albany on November 27, 2018 and stealing two laptops. Key evidence included surveillance footage showing a man matching defendant's description (wearing distinctive striped coat and knit hat) entering the home and leaving with a laptop, defendant's selfie photo wearing similar clothing, and defendant's identification of himself in the footage during police interrogation. Defendant claimed mistaken identity and presented alibi witnesses.",
+  "Legal_Principle": "1) Verdict was supported by legally sufficient evidence and not against weight of evidence; 2) Police deception about nature of investigation (calling it an assault rather than burglary) was permissible minor deception; 3) While defendant's later invocation of right to silence was violated, the error was harmless given overwhelming evidence; 4) Court properly denied motion to reopen suppression hearing; 5) Defendant received effective assistance of counsel.",
+  "link": "https://law.justia.com/cases/new-york/appellate-division-second-department/2025/2023-02750.html"
+  },
+  {
+  "case_name": "people v. gauze",
+  "citation": "15 Cal. 3d 710 (1975)",
+  "court": "Supreme Court of California",
+  "facts": "defendant james gauze, who shared an apartment with the victim, returned to their mutual residence with a borrowed shotgun after a quarrel and shot his roommate. he was convicted of assault with a deadly weapon and burglary, with the burglary charge based on entering his own home with felonious intent.",
+  "legal_principle": "1) a person cannot be convicted of burglarizing their own residence under california penal code §459, as burglary requires invasion of another's possessory rights. 2) the essential elements of burglary are entry into a structure belonging to another with felonious intent.",
+  "link": "https://law.justia.com/cases/california/court-of-appeal/3d/43/967.html"
+},
+{
+  "case_name": "united states v. stitt",
+  "citation": "No. 14-6158 (6th Cir. 2017)",
+  "court": "U.S. Court of Appeals for the Sixth Circuit (en banc)",
+  "facts": "in 2011, stitt attempted to force a loaded gun into his girlfriend's mouth while threatening to kill her. after fleeing police and surrendering, he was convicted under 18 u.s.c. § 922(g) as a felon in possession. his 290-month sentence under the armed career criminal act (acca) relied on six prior tennessee aggravated burglary convictions. following johnson v. united states (2015), the sixth circuit initially upheld the sentence under precedent (united states v. nance) but reversed en banc, finding tennessee's aggravated burglary statute broader than generic burglary.",
+  "Legal_Principle": "1) tennessee aggravated burglary does not qualify as a 'violent felony' under acca's enumerated offenses clause; 2) the statute is indivisible, precluding modified categorical approach; 3) circuit precedent was overruled because the state law covers non-generic burglary (e.g., vehicles not adapted for overnight accommodation).",
+  "link": "https://law.justia.com/cases/federal/appellate-courts/ca6/14-6158/14-6158-2017-06-27.html"
+},
+{
+  "case_name": "people v. kramer",
+  "citation": "103 Cal. App. 2d 36 (1951)",
+  "court": "California Court of Appeal, Second District",
+  "facts": "defendant maurice kramer was convicted of robbery and burglary for two separate incidents. the robbery occurred when kramer, disguised and armed, entered a pasadena market after closing, tied up employees, and stole money. six days later, he was found hiding in a los angeles market during business hours while armed with robbery tools, resulting in the burglary charge.",
+  "legal_principle": "1) burglary under california law is complete upon entry with felonious intent, even during business hours. 2) joinder of related offenses for trial is proper when crimes share common elements of plan, method, or identity evidence.",
+  "link": "https://law.justia.com/cases/california/court-of-appeal/2d/103/35.html"
+},
+{
+  "case_name": "people v. vaughn",
+  "citation": "2024 NY Slip Op 05874",
+  "court": "New York Court of Appeals",
+  "facts": "defendant was convicted of burglary based on eyewitness identifications by two asian victims who were robbed at gunpoint by a black male. the trial court limited defendant's expert testimony about eyewitness reliability to only cross-race effects, excluding testimony on other factors like stress, weapon focus, and confidence-accuracy correlation. the prosecution's case relied heavily on the eyewitness accounts and surveillance footage showing a suspect matching defendant's clothing.",
+  "Legal_Principle": "1) trial courts have discretion to limit eyewitness expert testimony, weighing probative value against potential prejudice or confusion; 2) corroborating evidence does not determine admissibility of such testimony; 3) no rigid two-step test exists for admitting eyewitness reliability experts; 4) mid-trial applications for expert testimony may be limited due to timeliness concerns.",
+  "link": "https://law.justia.com/cases/new-york/court-of-appeals/2024/103.html"
+},
+
+{
+  "case_name": "state v. baertsch",
+  "citation": "2023 MT [insert number] (Mont. 2023)",
+  "court": "Montana Supreme Court",
+  "facts": "defendant douglas baertsch was convicted of burglary (with disorderly conduct as predicate offense), partner assault, and criminal mischief following a domestic dispute where he broke into his girlfriend's home while using abusive language. the montana supreme court reversed the burglary conviction, finding the language didn't constitute public disorderly conduct.",
+  "legal_principle": "1) disorderly conduct requires disturbance of public peace - private home altercations may not qualify. 2) sentencing restrictions cannot exceed statutory authorization periods.",
+  "link": "https://law.justia.com/cases/montana/supreme-court/2025/da-23-0180.html"
+},
+{
+  "case_name": "State of Idaho v. David W. Brummett",
+  "citation": "Docket No. 35844, 2010 Opinion No. 61 (Idaho Ct. App. Sept. 1, 2010)",
+  "court": "Idaho Court of Appeals",
+  "facts": "Defendant stole electronics from multiple Shopko stores by cutting packaging with a knife. Loss prevention identified him via surveillance footage. During his arrest at Meridian Shopko, officers found stolen merchandise and a pocketknife. Defendant claimed he initially entered to shop legitimately but later decided to steal.",
+  "Legal_Principle": "1) Prior thefts were admissible under I.R.E. 404(b) to prove intent for burglary charge. 2) Evidence supported conviction where defendant's pattern of behavior (using a knife to steal electronics) demonstrated intent to commit theft upon entering.",
+  "link": "https://law.justia.com/cases/idaho/court-of-appeals-criminal/2010/brummett35844.html" 
+},
+{
+  "case_name": "people v. williams",
+  "citation": "2025 NY Slip Op 00901",
+  "court": "New York Court of Appeals",
+  "facts": "defendant was convicted of third-degree burglary for entering a cvs store while banned by a trespass notice and handling red bull energy drinks. the prosecution argued his furtive movements and prior trespass notice showed intent to steal. the defense contended he merely browsed and had no theft intent when entering.",
+  "Legal_Principle": "1) evidence was legally sufficient to support burglary conviction; 2) jury could reasonably infer intent to steal from defendant's conduct and prior trespass notice; 3) availability of innocent explanations doesn't preclude guilty verdict if alternative inferences are rational; 4) dissent argued prosecution overcharged a petty offense and evidence showed no theft intent.",
+  "link": "https://law.justia.com/cases/new-york/court-of-appeals/2025/10.html"
+},
+{
+  "case_name": "usa v. huerta-rodriguez",
+  "citation": "No. 21-50875 (5th Cir. 2023)",
+  "court": "United States Court of Appeals for the Fifth Circuit",
+  "facts": "defendant, a noncitizen with prior burglary and illegal reentry convictions, was convicted of third illegal reentry. the district court classified his offenses as aggravated felonies, triggering a 20-year maximum sentence under 8 u.s.c. § 1326(b)(2). defendant appealed, arguing his burglary no longer qualified as aggravated felony under new precedent.",
+  "legal_principle": "1) prior illegal reentry convictions constitute aggravated felonies under 8 u.s.c. § 1101(a)(43)(o) when following aggravated felony removal. 2) sentencing enhancements remain valid when based on proper aggravated felony classifications.",
+  "link": "https://law.justia.com/cases/federal/appellate-courts/ca5/21-50875/21-50875-2023-03-28.html"
+},
+{
+  "case_name": "Johnson v. Commonwealth",
+  "citation": "Not provided in summary",
+  "court": "Supreme Court of Kentucky (implied from 'Commonwealth' reference)",
+  "facts": "Defendant was convicted of theft by unlawful taking, burglary in the third degree, and being a persistent felony offender in the first degree, receiving a total sentence of twenty years in prison.",
+  "Legal_Principle": "1) Jury instructions were erroneous regarding unanimity requirement but did not rise to palpable error for the substantive charges. 2) Palpable error occurred in the persistent felony offender conviction. 3) Trial court properly denied defendant's motion for directed verdict on the underlying charges.",
+  "link": "https://law.justia.com/cases/kentucky/supreme-court/2025/2023-sc-0124-mr.html"
+},
+{
+  "case_name": "people v. lester",
+  "citation": "2024 NY Slip Op 05848",
+  "court": "New York Supreme Court, Appellate Division, Third Department",
+  "facts": "defendant pleaded guilty to two counts of burglary in the second degree for multiple home invasions affecting 13 households. as part of the plea deal, he was sentenced to concurrent 15-year prison terms and ordered to pay restitution, but the restitution amount lacked proper documentation in the record.",
+  "legal_principle": "1) invalid appeal waiver due to overbroad language; 2) sentence upheld despite mitigation arguments given defendant's extensive burglary history; 3) improper delegation of restitution calculation requires remittal for hearing; 4) appellate court exercised interest-of-justice jurisdiction over unpreserved restitution claim.",
+  "link": "https://law.justia.com/cases/new-york/appellate-division-third-department/2024/113450.html"
+},
+{
+  "case_name": "wooden v. united states",
+  "citation": "595 U.S. ___ (2022)",
+  "court": "Supreme Court of the United States",
+  "facts": "defendant william wooden was convicted of burglarizing ten storage units in one building during a single criminal episode. the government sought enhanced sentencing under the armed career criminal act (acca), arguing each unit burglary constituted a separate 'occasion' under 18 u.s.c. §924(e)(1).",
+  "legal_principle": "1) the term 'occasions' in acca requires a multifactored analysis of timing, location, and relationship between offenses rather than discrete criminal acts. 2) multiple offenses arising from a single criminal episode generally constitute one occasion for acca sentencing purposes.",
+  "link": "https://supreme.justia.com/cases/federal/us/595/20-5279/case.html"
+}
+  ],
+
+  "Fraud": [],
+  "Bribery": [],
+  "Drug Abuse and Trafficking": [],
+  "Defilement": [],
+  "Manslaughter": [],
+  "Terrorism": [],
+  "Forgery": [],
+  "Abortion": [],
+  "Corruption": [],
+  "Bigamy": [],
+  "Elopement": [],
+  "Child to child sex": [],
+  "Aggravated Difilement": [],
+  "Treason": [],
+  "Attempted Murder": [],
+  "Aggravated Robbery": [],
+  "House Breaking": [],
+  "Un natural Offences": [],
+  "Elopements": [],
+  "Abduction": [],
+  "Prositution": [],
+  "Indecent Assult": [],
+  "Attempted Rape": [],
+  "Procuring miscarriage": [],
+  "Insults to religion": []
+   
+
+ } 
+  
+}

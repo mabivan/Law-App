@@ -1,0 +1,59 @@
+/* Sidebar.css */
+
+.law-sidebar {
+  position: fixed;
+  top: 15%;
+  left: 0;
+  height: 100vh;
+  background-color: #f8f9fa;
+  border-right: 1px solid #e0e0e0;
+  transition: width 0.3s ease;
+  overflow: hidden;
+  /*padding-top: 60px;  To align under navbar */
+  z-index: 999;
+  width: 160px;
+}
+
+.law-sidebar.collapsed {
+  width: 63px;
+}
+
+.Sidebar-link {
+  display: flex;
+  align-items: center;
+  padding: 53px 20px;
+  color: #001f4d; /* Navy blue */
+  text-decoration: none;
+  box-shadow: 0px 3px 5px rgb(224, 221, 221);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+
+.Sidebar-link:hover {
+  background-color: #e6f0ff;
+  color: #003366;
+}
+
+.sidebar-icon {
+  font-size: 20px;
+  min-width: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Sidebar-text {
+  margin-left: 10px;
+  white-space: nowrap;
+  color:navy;
+  font-weight:bolder;
+  transition: opacity 0.2s ease;
+}
+.Sidebar-text:hover{
+color:#007bff;
+}
+
+.law-sidebar.collapsed .Sidebar-text {
+  opacity: 0;
+  pointer-events: none;
+}

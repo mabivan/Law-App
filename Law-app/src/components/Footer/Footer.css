@@ -1,0 +1,167 @@
+.footer-container {
+  background-color: #f8f8f8;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+  padding: 2rem 5%;
+  border-top: 1px solid #e7e7e7;
+  border-top: 3px solid rgb(3, 3, 157);
+  border-radius: 5px;
+}
+
+.footer-top {
+  margin-bottom: 1.5rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.footer-links li {
+  margin: 0 0.1rem;
+  color: navy;
+  font-weight: 600;
+  padding: 15px;
+  font-size:15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.footer-links li:hover {
+ color: #0066cc;
+}
+
+
+.footer-links a {
+  color: #333;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.copyright {
+  font-size: 0.8rem;
+    color: #0044cc;
+  margin-bottom: 1rem;
+}
+
+.footer-branding {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.brand-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.app-store-badge img {
+  height: 30px;
+  width: auto;
+}
+
+/* Footer Dropdown Styles */
+.footer-dropdown {
+  position: relative;
+}
+
+.footer-dropdown-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  cursor: pointer;
+ 
+}
+
+.footer-dropdown-arrow {
+  font-size: 0.6rem;
+  margin-top: 5px;
+  color:#555;
+  font-weight: bolder;
+}
+
+.footer-dropdown-menu {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  z-index: 100;
+  min-width: 140px;
+  padding: 0.5rem 0;
+  margin-bottom: 0.5rem;
+}
+
+.footer-dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  color: #333;
+  text-decoration: none;
+}
+
+
+.footer-dropdown-item a:hover {
+  background: #f5f5f5;
+   text-decoration: none;
+}
+
+.footer-dropdown-flag {
+  width: 20px;
+  height: auto;
+  border-radius: 2px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .footer-dropdown-menu {
+    position: static;
+    box-shadow: none;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .footer-links {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-links li {
+    margin: 0.3rem 0;
+  }
+  
+  .footer-branding {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+/* Footer.css additions */
+.footer-links .active {
+  color: #0066cc;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Optional: Add transition for hover effects */
+.footer-links a {
+  transition: color 0.2s ease;
+}

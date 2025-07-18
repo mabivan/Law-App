@@ -1,0 +1,3066 @@
+{
+    "Legal_words":{
+"A":[
+     {
+      "term": "Adjudication",
+      "definition": "The final order, pronouncement, or judgment of a court or tribunal."
+    },
+    {
+      "term": "Adjuster",
+      "definition": "An employee or agent of an insurance company who handles a casualty claim."
+    },
+    {
+      "term": "Admission",
+      "definition": "A statement or confession by a party to a lawsuit admitting certain facts."
+    },
+    {
+      "term": "Advocate",
+      "definition": "A lawyer who represents a party in court or gives legal advice."
+    },
+    {
+      "term": "Acquittal",
+      "definition": "A jury verdict or judge's decision that a defendant is not guilty."
+    },
+    {
+      "term": "Amicus curiae",
+      "definition": "(“Friend of the court”)—a person or organization not party to a case but offering information or expertise to assist the court."
+    },
+    {
+      "term": "Assumpsit",
+      "definition": "A historical common-law action for enforcing certain promises or obligations."
+    },
+     {
+        "term": "Accused",
+        "definition": "A person formally charged with a crime."
+      },
+      {
+        "term": "Acknowledgment",
+        "definition": "A declaration made before an authorized official that a document is genuine."
+      },
+      {
+      "term": "Axiom",
+      "definition": "A principle or statement accepted as true without proof—used broadly in reasoning, including in legal logic."
+    },
+    {
+      "term": "Ad litem",
+      "definition": "A person (like a guardian) appointed by the court to represent another in a legal proceeding."
+    },
+    {
+      "term": "A fortiori",
+      "definition": "A Latin phrase meaning 'by stronger reason'—arguing that if one fact holds, another even stronger one logically follows."
+    },
+    {
+      "term": "Abandonment",
+      "definition": "The relinquishment or waiver of a right or interest, often in property law."
+    },
+    {
+      "term": "Abduction",
+      "definition": "The unlawful taking away of a person by force or deception."
+    },
+    {
+      "term": "Abate",
+      "definition": "To reduce, remove, or eliminate, e.g., to abate a nuisance."
+    },
+    {
+      "term": "Abjure",
+      "definition": "To renounce or reject solemnly, often under oath."
+    },
+    {
+      "term": "Abstract of title",
+      "definition": "A summary of all recorded documents affecting property ownership."
+    },
+    {
+      "term": "Abrogate",
+      "definition": "To repeal, cancel, or annul a law or agreement."
+    },
+    {
+      "term": "Abuse of discretion",
+      "definition": "A judge’s decision found to be arbitrary or unreasonable."
+    },
+    {
+      "term": "Accessory",
+      "definition": "A person who assists in a crime without directly committing it."
+    },
+    {
+      "term": "Accomplice",
+      "definition": "Someone who knowingly participates in a crime."
+    },
+    {
+      "term": "Accession",
+      "definition": "An increase in property via natural or legal addition."
+    },
+    {
+      "term": "Accord and satisfaction",
+      "definition": "Agreement to settle a debt and performance of that agreement."
+    },
+    {
+      "term": "Account stated",
+      "definition": "A statement of mutual agreement on an account balance between parties."
+    },
+    {
+      "term": "Accrue",
+      "definition": "To accumulate over time, such as interest or legal rights."
+    },
+    {
+      "term": "Accusation",
+      "definition": "A formal claim that someone has engaged in wrongdoing."
+    },
+     {
+      "term": "Axiom",
+      "definition": "A principle or statement accepted as true without proof—used broadly in reasoning, including in legal logic."
+    },
+    {
+      "term": "Ad litem",
+      "definition": "A person (like a guardian) appointed by the court to represent another in a legal proceeding."
+    },
+    {
+      "term": "A fortiori",
+      "definition": "A Latin phrase meaning 'by stronger reason'—arguing that if one fact holds, another even stronger one logically follows."
+    },
+    {
+      "term": "Abandonment",
+      "definition": "The relinquishment or waiver of a right or interest, often in property law."
+    },
+    {
+      "term": "Abduction",
+      "definition": "The unlawful taking away of a person by force or deception."
+    },
+    {
+      "term": "Abate",
+      "definition": "To reduce, remove, or eliminate, e.g., to abate a nuisance."
+    },
+    {
+      "term": "Abjure",
+      "definition": "To renounce or reject solemnly, often under oath."
+    },
+    {
+      "term": "Abstract of title",
+      "definition": "A summary of all recorded documents affecting property ownership."
+    },
+    {
+      "term": "Abrogate",
+      "definition": "To repeal, cancel, or annul a law or agreement."
+    },
+    {
+      "term": "Abuse of discretion",
+      "definition": "A judge’s decision found to be arbitrary or unreasonable."
+    },
+    {
+      "term": "Accessory",
+      "definition": "A person who assists in a crime without directly committing it."
+    },
+    {
+      "term": "Accomplice",
+      "definition": "Someone who knowingly participates in a crime."
+    },
+    {
+      "term": "Accession",
+      "definition": "An increase in property via natural or legal addition."
+    },
+    {
+      "term": "Accord and satisfaction",
+      "definition": "Agreement to settle a debt and performance of that agreement."
+    },
+    {
+      "term": "Account stated",
+      "definition": "A statement of mutual agreement on an account balance between parties."
+    },
+    {
+      "term": "Accrue",
+      "definition": "To accumulate over time, such as interest or legal rights."
+    },
+    {
+      "term": "Accusation",
+      "definition": "A formal claim that someone has engaged in wrongdoing."
+    },
+    {
+      "term": "Abortion",
+      "definition": "The termination of pregnancy by medical or surgical means before the fetus can sustain independent life."
+    },
+    {
+      "term": "Abscond",
+      "definition": "To leave jurisdiction secretly to avoid legal process or arrest, or to flee with stolen goods."
+    },
+    {
+      "term": "Absolute",
+      "definition": "Complete and unconditional."
+    },
+    {
+      "term": "Abstract of judgment",
+      "definition": "A summarized record of a court’s judgment, including amount owed and interest."
+    },
+    {
+      "term": "Affiant",
+      "definition": "A person who swears to the truth of an affidavit before an authorized official."
+    },
+    {
+      "term": "Affirmative action",
+      "definition": "Policies giving preferential treatment to disadvantaged groups to remedy past discrimination."
+    },
+    {
+      "term": "Affirmative defense",
+      "definition": "A defense in which the defendant introduces new evidence or arguments to negate liability."
+    },
+    {
+      "term": "Aid and abet",
+      "definition": "To actively assist another in the commission of a crime."
+    },
+    {
+      "term": "Alias",
+      "definition": "A false or assumed name used by a person."
+    },
+    {
+      "term": "Alien",
+      "definition": "A person residing in a country who is not a citizen of that country."
+    },
+    {
+      "term": "Alibi",
+      "definition": "Evidence showing a defendant was elsewhere when an alleged crime occurred."
+    },
+    {
+      "term": "Allegation",
+      "definition": "A claim asserted in a legal pleading that must be proven."
+    },
+    {
+      "term": "Alternative dispute resolution (ADR)",
+      "definition": "Resolving legal disputes outside court, e.g., via mediation or arbitration."
+    },
+    {
+      "term": "Amnesty",
+      "definition": "Official forgiveness for past offenses, often erasing legal consequences."
+    },
+    {
+      "term": "Amount in controversy",
+      "definition": "The sum claimed or at stake in a lawsuit, affecting jurisdiction."
+    },
+    {
+      "term": "Annulment",
+      "definition": "A legal declaration that a marriage is null and void as though it never existed."
+    },
+    {
+      "term": "Appellant",
+      "definition": "The party who appeals a lower court’s decision to a higher court."
+    },
+    {
+      "term": "Appellee",
+      "definition": "The party who defends the lower court’s decision in an appeal."
+    },
+    {
+      "term": "Appraisal / appraiser",
+      "definition": "A professional evaluation of property value."
+    },
+    {
+      "term": "Arbitration",
+      "definition": "A method of dispute resolution where a neutral third party makes a binding decision outside the courts."
+    },
+    {
+      "term": "Arraignment",
+      "definition": "The court proceeding in which a criminal defendant is formally charged and asked to enter a plea."
+    },
+    {
+      "term": "Arrest",
+      "definition": "The act of detaining a person by legal authority, usually for suspected criminal activity."
+    },
+    {
+      "term": "Arson",
+      "definition": "The criminal act of deliberately setting fire to property."
+    },
+    {
+      "term": "Assault",
+      "definition": "An intentional act causing another person to fear imminent bodily harm; may or may not include physical contact."
+    },
+    {
+      "term": "Assignment",
+      "definition": "The transfer of rights or property from one party to another."
+    },
+    {
+      "term": "Assumption of risk",
+      "definition": "A defense in tort law where a person knowingly exposes themselves to danger."
+    },
+    {
+        "term": "Attachment",
+        "definition": "A court-ordered seizure of property to satisfy a judgment."
+      },
+      {
+        "term": "Attorney",
+        "definition": "A person legally appointed to act for another in legal matters; a lawyer."
+      },
+      {
+        "term": "Attorney-client privilege",
+        "definition": "The legal protection that keeps communications between a lawyer and their client confidential."
+      },
+      {
+        "term": "Attribution",
+        "definition": "Assigning responsibility or liability to a person or entity."
+      },
+      {
+        "term": "Auction",
+        "definition": "A public sale in which goods or property are sold to the highest bidder."
+      },
+       {
+        "term": "Amendment",
+        "definition": "A formal change or addition to a legal document or statute."
+      },
+      {
+        "term": "Amicus curiae brief",
+        "definition": "A “friend of the court” document filed by a non-party offering information or arguments."
+      },
+      {
+        "term": "Annexation",
+        "definition": "The addition of property to a larger parcel or jurisdiction."
+      },
+      {
+        "term": "Answer",
+        "definition": "The defendant’s formal written response to a complaint."
+      },
+      {
+        "term": "Antitrust laws",
+        "definition": "Laws that promote competition and prevent monopolies."
+      },
+      {
+        "term": "Appellate court",
+        "definition": "A court that reviews decisions made by lower courts."
+      },
+       {
+      "term": "Authentication",
+      "definition": "The process of verifying the genuineness of a document or evidence."
+    },
+    {
+      "term": "Autopsy",
+      "definition": "A post-mortem examination to determine cause of death, often used in legal investigations."
+    },
+    {
+      "term": "Avulsion",
+      "definition": "The sudden tearing away of land by natural forces such as flooding."
+    },
+    {
+      "term": "Avoidance",
+      "definition": "The act of declaring a contract or transaction null and void."
+    },
+    {
+      "term": "Award",
+      "definition": "The amount of money or damages granted by a court or arbitrator."
+    },
+    {
+      "term": "Abatement of nuisance",
+      "definition": "Legal action to reduce or eliminate a nuisance."
+    },
+    {
+      "term": "Absolute privilege",
+      "definition": "A complete immunity from lawsuit for certain statements, regardless of intent or truth."
+    },
+    {
+      "term": "Actus reus",
+      "definition": "The physical act or unlawful omission that constitutes a crime."
+    },
+    {
+      "term": "Actual damages",
+      "definition": "Compensation awarded for proven harm or injury."
+    },
+    {
+      "term": "Ad damnum clause",
+      "definition": "The part of a complaint specifying the amount of damages sought."
+    },
+    {
+      "term": "Adhesion contract",
+      "definition": "A standard-form contract drafted by one party with stronger bargaining power, offered on a 'take it or leave it' basis."
+    },
+    {
+      "term": "Adjournment",
+      "definition": "The postponement or suspension of a court proceeding to a later date."
+    },
+    {
+      "term": "Administrative law",
+      "definition": "The body of law that regulates government agencies' powers and procedures."
+    },
+    {
+      "term": "Adverse possession",
+      "definition": "Acquiring title to property by openly occupying it without permission for a statutory period."
+    },
+    {
+      "term": "Advocate",
+      "definition": "A lawyer who pleads cases in court."
+    },
+    {
+      "term": "Affidavit of support",
+      "definition": "A sworn statement promising financial support, often used in immigration cases."
+    },
+    {
+      "term": "Affirm",
+      "definition": "A higher court's approval of a lower court's decision."
+    },
+    {
+      "term": "Agency",
+      "definition": "A legal relationship where one party acts on behalf of another."
+    },
+    {
+      "term": "Aggravated assault",
+      "definition": "An attack causing serious bodily injury or involving a weapon."
+    },
+    {
+      "term": "Alimony",
+      "definition": "Court-ordered financial support paid to a former spouse after divorce."
+    },
+    {
+      "term": "Alienation",
+      "definition": "The transfer of property rights to another party."
+    },
+    {
+      "term": "Alter ego",
+      "definition": "A doctrine holding a corporation's shareholders personally liable for corporate debts if the corporation is used for improper purposes."
+    },
+    {
+      "term": "Axiom",
+      "definition": "A principle or statement accepted as true without proof—used broadly in reasoning, including in legal logic."
+    },
+    {
+      "term": "Ad litem",
+      "definition": "A person (like a guardian) appointed by the court to represent another in a legal proceeding."
+    },
+    {
+      "term": "A fortiori",
+      "definition": "A Latin phrase meaning 'by stronger reason'—arguing that if one fact holds, another even stronger one logically follows."
+    },
+    {
+      "term": "Abandonment",
+      "definition": "The relinquishment or waiver of a right or interest, often in property law."
+    },
+    {
+      "term": "Abduction",
+      "definition": "The unlawful taking away of a person by force or deception."
+    },
+    {
+      "term": "Abate",
+      "definition": "To reduce, remove, or eliminate, e.g., to abate a nuisance."
+    },
+    {
+      "term": "Abjure",
+      "definition": "To renounce or reject solemnly, often under oath."
+    },
+    {
+      "term": "Abstract of title",
+      "definition": "A summary of all recorded documents affecting property ownership."
+    },
+    {
+      "term": "Abrogate",
+      "definition": "To repeal, cancel, or annul a law or agreement."
+    },
+    {
+      "term": "Abuse of discretion",
+      "definition": "A judge's decision found to be arbitrary or unreasonable."
+    },
+    {
+      "term": "Accessory",
+      "definition": "A person who assists in a crime without directly committing it."
+    },
+    {
+      "term": "Accomplice",
+      "definition": "Someone who knowingly participates in a crime."
+    },
+    {
+      "term": "Accession",
+      "definition": "An increase in property via natural or legal addition."
+    },
+    {
+      "term": "Accord and satisfaction",
+      "definition": "Agreement to settle a debt and performance of that agreement."
+    },
+    {
+      "term": "Account stated",
+      "definition": "A statement of mutual agreement on an account balance between parties."
+    },
+    {
+      "term": "Accrue",
+      "definition": "To accumulate over time, such as interest or legal rights."
+    },
+    {
+      "term": "Accusation",
+      "definition": "A formal claim that someone has engaged in wrongdoing."
+    },
+    {
+      "term": "Arbitration",
+      "definition": "A method of dispute resolution where a neutral third party makes a binding decision outside the courts."
+    },
+    {
+      "term": "Arraignment",
+      "definition": "The court proceeding in which a criminal defendant is formally charged and asked to enter a plea."
+    },
+    {
+      "term": "Arrest",
+      "definition": "The act of detaining a person by legal authority, usually for suspected criminal activity."
+    },
+    {
+      "term": "Arson",
+      "definition": "The criminal act of deliberately setting fire to property."
+    },
+    {
+      "term": "Assault",
+      "definition": "An intentional act causing another person to fear imminent bodily harm; may or may not include physical contact."
+    },
+    {
+      "term": "Assignment",
+      "definition": "The transfer of rights or property from one party to another."
+    },
+    {
+      "term": "Assumption of risk",
+      "definition": "A defense in tort law where a person knowingly exposes themselves to danger."
+    },
+ {
+        "term": "Authentication",
+        "definition": "Verifying the legitimacy of a document or evidence."
+      },
+      {
+        "term": "Autopsy",
+        "definition": "An examination of a dead body to determine cause of death."
+      },
+      {
+        "term": "Avulsion",
+        "definition": "Sudden tearing away of land by natural forces like a flood."
+      },
+      {
+        "term": "Avoidance",
+        "definition": "Declaring a contract or act null and void."
+      },
+      {
+        "term": "Award",
+        "definition": "A sum of money granted by a court or arbitrator."
+      },
+      {
+        "term": "Abatement of nuisance",
+        "definition": "Legal action to remove or reduce a nuisance."
+      },
+      {
+        "term": "Absolute privilege",
+        "definition": "Immunity from legal liability for certain communications."
+      },
+      {
+        "term": "Actus reus",
+        "definition": "The guilty act or physical component of a crime."
+      },
+      {
+        "term": "Actual damages",
+        "definition": "Compensation for proven loss or injury."
+      },
+      {
+        "term": "Ad damnum clause",
+        "definition": "Section in a legal complaint stating the damages sought."
+      },
+      {
+        "term": "Adhesion contract",
+        "definition": "A standardized contract offered on a “take it or leave it” basis."
+      },
+      {
+        "term": "Adjournment",
+        "definition": "Suspension or postponement of a court proceeding."
+      },
+      {
+        "term": "Administrative law",
+        "definition": "Laws regulating government agencies and their actions."
+      },
+      {
+        "term": "Adverse witness",
+        "definition": "A witness called by the opposing party."
+      },
+      {
+        "term": "Advocate",
+        "definition": "A lawyer who represents a party in court."
+      },
+      {
+        "term": "Adoption",
+        "definition": "The legal act of taking another’s child as one’s own."
+      },
+      {
+        "term": "Adverse possession",
+        "definition": "Gaining title to property by continuous and open possession."
+      },
+      {
+        "term": "Affirm",
+        "definition": "To uphold a lower court’s decision on appeal."
+      },
+      {
+        "term": "Agency by estoppel",
+        "definition": "When a person is prevented from denying agency due to their actions."
+      },
+      {
+        "term": "Aggravated assault",
+        "definition": "An assault causing serious bodily harm or involving a weapon."
+      },
+       {
+        "term": "Alienation",
+        "definition": "Transfer of property rights or title."
+      },
+      {
+        "term": "Alimony",
+        "definition": "Court-ordered financial support to a former spouse."
+      },
+      {
+        "term": "Alter ego",
+        "definition": "When a corporation and its owner are considered the same for liability purposes."
+      },
+      {
+        "term": "Amendment",
+        "definition": "A formal change to a legal document or law."
+      },
+      {
+        "term": "Annexation",
+        "definition": "Adding land to an existing property or jurisdiction."
+      },
+      {
+        "term": "Answer",
+        "definition": "Defendant’s written response to a complaint."
+      },
+      {
+        "term": "Antitrust laws",
+        "definition": "Laws designed to promote competition and prevent monopolies."
+      },
+      {
+        "term": "Appealable order",
+        "definition": "A court order eligible for appeal."
+      },
+      {
+        "term": "Appreciation",
+        "definition": "Increase in property value over time."
+      },
+      {
+        "term": "Appropriation",
+        "definition": "Unauthorized use of someone’s identity or property."
+      },
+      {
+        "term": "Arraignment",
+        "definition": "Formal reading of charges and plea entry in court."
+      },
+      {
+        "term": "Assault and battery",
+        "definition": "Assault is threat; battery is actual physical contact."
+      },
+      {
+        "term": "Assignment of rights",
+        "definition": "Transfer of contractual rights from one party to another."
+      },
+      {
+        "term": "Assumpsit",
+        "definition": "A common law action for recovering damages for non-performance of a contract."
+      },
+      {
+        "term": "Attachment lien",
+        "definition": "A court-ordered claim on property to secure a debt."
+      },
+      {
+        "term": "Attorney-in-fact",
+        "definition": "A person authorized to act on behalf of another under a power of attorney."
+      },
+      {
+        "term": "Attestation",
+        "definition": "The act of witnessing and certifying the authenticity of a document."
+      },
+      {
+        "term": "Attorney general",
+        "definition": "The chief legal officer of a state or country."
+      },
+      {
+        "term": "Attorney’s fees",
+        "definition": "The amount charged by a lawyer for legal services."
+      },
+      {
+        "term": "Automated teller machine (ATM) laws",
+        "definition": "Regulations governing the use and security of ATMs."
+      },
+      {
+        "term": "Autonomous vehicle laws",
+        "definition": "Legal rules for self-driving cars."
+      },
+      {
+        "term": "Autopsy report",
+        "definition": "Official document detailing the findings of a post-mortem examination."
+      },
+      {
+        "term": "Averment",
+        "definition": "A formal statement of fact made in a pleading."
+      },
+      {
+        "term": "Avowal",
+        "definition": "A statement or acknowledgment made openly and formally."
+      },
+      {
+        "term": "Award of damages",
+        "definition": "The sum of money a court orders to be paid for harm suffered."
+      },
+      {
+        "term": "Azure",
+        "definition": "(Rare) Often refers to the color blue in heraldry but occasionally used metaphorically in legal texts."
+      },
+      {
+        "term": "Adversary system",
+        "definition": "A legal system where two parties argue opposing sides before a neutral judge or jury."
+      },
+      {
+        "term": "Action",
+        "definition": "A lawsuit brought before a court."
+      },
+      {
+        "term": "Actionable",
+        "definition": "Giving sufficient grounds for a lawsuit."
+      },
+      {
+        "term": "Ad interim",
+        "definition": "Temporary or provisional."
+      },
+      {
+        "term": "Adjudicate",
+        "definition": "To make a formal judgment or decision about a dispute."
+      },
+      {
+        "term": "Ad valorem tax",
+        "definition": "A tax based on the assessed value of property."
+      },
+      {
+        "term": "Alienation of affections",
+        "definition": "A legal action for the wrongful interference in a marital relationship."
+      },
+      {
+        "term": "Adjudicative jurisdiction",
+        "definition": "The authority of a court to hear and decide cases."
+      },
+      {
+        "term": "Adoption decree",
+        "definition": "A court order finalizing the adoption of a child."
+      },
+      {
+        "term": "Adverse inference",
+        "definition": "A conclusion drawn by the court when a party refuses to provide evidence."
+      },
+      {
+        "term": "Advancement",
+        "definition": "A payment made to an heir before the final distribution of an estate."
+      },
+      {
+        "term": "Adverse party",
+        "definition": "The opposing side in a legal proceeding."
+      },
+      {
+        "term": "Affirmance",
+        "definition": "Confirmation of a lower court's decision by a higher court."
+      },
+      {
+        "term": "Affray",
+        "definition": "A public fight that disturbs the peace."
+      },
+   {
+      "term": "Appeal",
+      "definition": "A request made to a higher court to review and change the decision of a lower court."
+    },
+    {
+      "term": "Appealable order",
+      "definition": "A court decision that can be reviewed by an appellate court."
+    },
+    {
+      "term": "Appreciation",
+      "definition": "An increase in the value of property over time."
+    },
+    {
+      "term": "Appropriation",
+      "definition": "The unauthorized use of another's name, likeness, or identity for commercial benefit."
+    },
+    {
+      "term": "Arbitrary",
+      "definition": "Based on random choice or personal whim rather than reason or law."
+    },
+    {
+      "term": "Arbitrator",
+      "definition": "A neutral third party who hears and decides a dispute in arbitration."
+    },
+    {
+      "term": "Arm’s length transaction",
+      "definition": "A deal made by parties acting independently without influence or pressure."
+    },
+    {
+      "term": "Arrest warrant",
+      "definition": "A legal document authorizing law enforcement to arrest a specific person."
+    },
+    {
+      "term": "Assault and battery",
+      "definition": "Assault is the threat or attempt to injure; battery is the actual physical contact or harm."
+    },
+    {
+      "term": "Asset",
+      "definition": "Anything of value owned by a person or entity."
+    },
+    {
+      "term": "Assignment of rights",
+      "definition": "The transfer of contractual rights from one party to another."
+    },
+    {
+      "term": "Assumption of jurisdiction",
+      "definition": "When a court takes over the power to hear a case."
+    },
+    {
+      "term": "Asylum",
+      "definition": "Protection granted by a country to someone fleeing persecution in their home country."
+    },
+    {
+      "term": "At issue",
+      "definition": "The point in a case when the parties present their evidence and arguments."
+    },
+    {
+      "term": "Attachment lien",
+      "definition": "A claim on property to secure payment of a debt."
+    },
+    {
+      "term": "Attorney-in-fact",
+      "definition": "A person authorized to act on behalf of another via a power of attorney."
+    },
+    {
+      "term": "Attestation",
+      "definition": "The act of witnessing and certifying the authenticity of a document."
+    },
+    {
+      "term": "Attorney general",
+      "definition": "The chief legal officer of a state or country."
+    },
+    {
+      "term": "Attorney’s fees",
+      "definition": "The cost charged by lawyers for legal services."
+    },
+    {
+      "term": "Autonomous vehicle laws",
+      "definition": "Regulations governing self-driving cars."
+    },
+    {
+      "term": "Ad litem",
+      "definition": "A person appointed by the court to represent someone, especially a minor or incapacitated individual, in a lawsuit."
+    },
+    {
+      "term": "Ad quod damnum",
+      "definition": "A writ requiring an inquiry into the amount of damages caused by an unlawful act."
+    },
+    {
+      "term": "Ad valorem",
+      "definition": "According to value, often used in taxation."
+    },
+    {
+      "term": "Adjunct",
+      "definition": "Something added to another thing but not essential to it."
+    },
+    {
+      "term": "Admission against interest",
+      "definition": "A statement made by a party that is against their own legal interest."
+    },
+    {
+      "term": "Adoption",
+      "definition": "The legal process of taking a child as one’s own."
+    },
+    {
+      "term": "Adverse witness",
+      "definition": "A witness called by the opposing party."
+    },
+    {
+      "term": "Advowson",
+      "definition": "The right to recommend a priest for a vacant parish."
+    },
+    {
+      "term": "A fortiori",
+      "definition": "Latin for 'with stronger reason'; used to express a conclusion that is even more certain."
+    },
+    {
+      "term": "After-acquired property",
+      "definition": "Property obtained after the execution of a contract or will."
+    },
+    {
+      "term": "Age of majority",
+      "definition": "The legally defined age at which a person is considered an adult."
+    },
+    {
+      "term": "Agency by estoppel",
+      "definition": "When a person is prevented from denying an agency relationship because of their behavior."
+    },
+    {
+      "term": "Aggravation",
+      "definition": "Circumstances that increase the severity or culpability of a criminal act or civil wrong."
+    },
+    {
+      "term": "Agreement",
+      "definition": "A mutual understanding between parties about their rights and duties."
+    },
+    {
+      "term": "Aid and abet",
+      "definition": "To assist or encourage someone in committing a crime."
+    },
+    {
+      "term": "Alienation clause",
+      "definition": "A provision in a mortgage requiring full repayment if the property is sold or transferred."
+    },
+    {
+      "term": "Allegation",
+      "definition": "A claim or assertion made without proof."
+    },
+    {
+      "term": "Allonge",
+      "definition": "A piece of paper attached to a negotiable instrument for additional endorsements."
+    },
+    {
+      "term": "Allocation of assets",
+      "definition": "Distribution of property among parties, often in divorce or bankruptcy."
+    },
+    {
+      "term": "Alternate juror",
+      "definition": "A juror who serves as a substitute in case a regular juror is unable to continue."
+    },
+    {
+      "term": "Amendment",
+      "definition": "A formal change or addition to a legal document, contract, or constitution."
+    },
+    {
+      "term": "Amicus curiae",
+      "definition": "A 'friend of the court' who provides expertise or insight on a case."
+    },
+    {
+      "term": "Ancillary",
+      "definition": "Subordinate or auxiliary to a primary legal proceeding."
+    },
+    {
+      "term": "Annuity",
+      "definition": "A financial product providing periodic payments over time."
+    },
+    {
+      "term": "Answer",
+      "definition": "A defendant's formal response to a lawsuit's allegations."
+    },
+    {
+      "term": "Anticipatory breach",
+      "definition": "When one party to a contract indicates they will not fulfill their obligations."
+    },
+    {
+      "term": "Antitrust laws",
+      "definition": "Regulations preventing monopolies and promoting fair competition."
+    },
+    {
+      "term": "Apparent authority",
+      "definition": "When a principal’s actions lead a third party to believe an agent has authority."
+    },
+    {
+      "term": "Appellate court",
+      "definition": "A court that reviews decisions of lower courts."
+    },
+    {
+      "term": "Appurtenance",
+      "definition": "A right or privilege attached to land (e.g., easements)."
+    },
+    {
+      "term": "Arbitration clause",
+      "definition": "A contract provision requiring disputes to be resolved via arbitration."
+    },
+    {
+      "term": "Arson",
+      "definition": "The criminal act of deliberately setting fire to property."
+    },
+    {
+      "term": "Assent",
+      "definition": "Agreement or approval, especially in contracts."
+    },
+    {
+      "term": "Assignment for creditors",
+      "definition": "Transferring assets to a trustee to pay off debts."
+    },
+    {
+      "term": "Assumpsit",
+      "definition": "A legal action for breach of contract or promise."
+    },
+    {
+      "term": "Attachment",
+      "definition": "Seizing property to secure a debt or judgment."
+    },
+    {
+      "term": "Attainder",
+      "definition": "Historical: Loss of civil rights after a felony conviction."
+    },
+    {
+      "term": "Attestation clause",
+      "definition": "A section in a will where witnesses confirm its validity."
+    },
+    {
+      "term": "Attorney misconduct",
+      "definition": "Unethical or illegal behavior by a lawyer."
+    },
+    {
+      "term": "Autrefois acquit",
+      "definition": "A defense claiming the defendant was already acquitted of the same crime."
+    },
+    {
+      "term": "Autrefois convict",
+      "definition": "A defense claiming the defendant was already convicted of the same crime."
+    },
+    {
+      "term": "Averment",
+      "definition": "A positive statement of fact in a legal pleading."
+    },
+    {
+      "term": "Aviation law",
+      "definition": "Regulations governing air travel and aircraft."
+    },
+    {
+      "term": "Award",
+      "definition": "A formal decision by an arbitrator or court."
+    },
+    {
+        "term": "Alienation",
+        "definition": "Transfer of property rights or title."
+      },
+      {
+        "term": "Alimony",
+        "definition": "Court-ordered financial support to a former spouse."
+      },
+      {
+        "term": "Alter ego",
+        "definition": "When a corporation and its owner are considered the same for liability purposes."
+      },
+      {
+        "term": "Amendment",
+        "definition": "A formal change to a legal document or law."
+      },
+      {
+        "term": "Annexation",
+        "definition": "Adding land to an existing property or jurisdiction."
+      },
+      {
+        "term": "Answer",
+        "definition": "Defendant’s written response to a complaint."
+      },
+      {
+        "term": "Antitrust laws",
+        "definition": "Laws designed to promote competition and prevent monopolies."
+      },
+      {
+        "term": "Appealable order",
+        "definition": "A court order eligible for appeal."
+      },
+      {
+        "term": "Appreciation",
+        "definition": "Increase in property value over time."
+      },
+      {
+        "term": "Appropriation",
+        "definition": "Unauthorized use of someone’s identity or property."
+      },
+      {
+        "term": "Arraignment",
+        "definition": "Formal reading of charges and plea entry in court."
+      },
+      {
+        "term": "Assault and battery",
+        "definition": "Assault is threat; battery is actual physical contact."
+      },
+      {
+        "term": "Assignment of rights",
+        "definition": "Transfer of contractual rights from one party to another."
+      },
+      {
+        "term": "Assumpsit",
+        "definition": "A common law action for recovering damages for non-performance of a contract."
+      },
+      {
+        "term": "Attachment lien",
+        "definition": "A court-ordered claim on property to secure a debt."
+      },
+      {
+        "term": "Attorney-in-fact",
+        "definition": "A person authorized to act on behalf of another under a power of attorney."
+      },
+      {
+        "term": "Attestation",
+        "definition": "The act of witnessing and certifying the authenticity of a document."
+      },
+      {
+        "term": "Attorney general",
+        "definition": "The chief legal officer of a state or country."
+      },
+      {
+        "term": "Attorney’s fees",
+        "definition": "The amount charged by a lawyer for legal services."
+      },
+      {
+        "term": "Automated teller machine (ATM) laws",
+        "definition": "Regulations governing the use and security of ATMs."
+      },
+      {
+        "term": "Autonomous vehicle laws",
+        "definition": "Legal rules for self-driving cars."
+      },
+      {
+        "term": "Autopsy report",
+        "definition": "Official document detailing the findings of a post-mortem examination."
+      },
+      {
+        "term": "Averment",
+        "definition": "A formal statement of fact made in a pleading."
+      },
+      {
+        "term": "Avowal",
+        "definition": "A statement or acknowledgment made openly and formally."
+      },
+      {
+        "term": "Award of damages",
+        "definition": "The sum of money a court orders to be paid for harm suffered."
+      },
+      {
+        "term": "Azure",
+        "definition": "(Rare) Often refers to the color blue in heraldry but occasionally used metaphorically in legal texts."
+      },
+      {
+        "term": "Adversary system",
+        "definition": "A legal system where two parties argue opposing sides before a neutral judge or jury."
+      },
+      {
+        "term": "Action",
+        "definition": "A lawsuit brought before a court."
+      },
+      {
+        "term": "Actionable",
+        "definition": "Giving sufficient grounds for a lawsuit."
+      },
+      {
+        "term": "Ad interim",
+        "definition": "Temporary or provisional."
+      },
+      {
+        "term": "Adjudicate",
+        "definition": "To make a formal judgment or decision about a dispute."
+      },
+      {
+        "term": "Ad valorem tax",
+        "definition": "A tax based on the assessed value of property."
+      },
+      {
+        "term": "Alienation of affections",
+        "definition": "A legal action for the wrongful interference in a marital relationship."
+      },
+      {
+        "term": "Adjudicative jurisdiction",
+        "definition": "The authority of a court to hear and decide cases."
+      },
+      {
+        "term": "Adoption decree",
+        "definition": "A court order finalizing the adoption of a child."
+      },
+      {
+        "term": "Adverse inference",
+        "definition": "A conclusion drawn by the court when a party refuses to provide evidence."
+      },
+      {
+        "term": "Advancement",
+        "definition": "A payment made to an heir before the final distribution of an estate."
+      },
+      {
+        "term": "Adverse party",
+        "definition": "The opposing side in a legal proceeding."
+      },
+      {
+        "term": "Affirmance",
+        "definition": "Confirmation of a lower court's decision by a higher court."
+      },
+      {
+        "term": "Affray",
+        "definition": "A public fight that disturbs the peace."
+      },
+      {
+      "term": "Agency coupled with an interest",
+      "definition": "An agency relationship where the agent has an interest in the subject matter."
+    },
+    {
+      "term": "Aggrieved party",
+      "definition": "A person who has suffered legal injury or harm."
+    },
+    {
+      "term": "Alien enemy",
+      "definition": "A citizen of a country at war with the state in which they reside."
+    },
+    {
+      "term": "Allegiance bond",
+      "definition": "A bond guaranteeing loyalty to a sovereign or government."
+    },
+    {
+      "term": "Allocation of loss",
+      "definition": "Distribution of financial loss among parties."
+    },
+    {
+      "term": "Alteration",
+      "definition": "A change made to a legal document after execution."
+    },
+    {
+      "term": "Ambulance chasing",
+      "definition": "Unethical practice of soliciting clients at accident scenes."
+    },
+    {
+      "term": "Amenability",
+      "definition": "The condition of being subject to legal authority or jurisdiction."
+    },
+    {
+      "term": "Amicus brief",
+      "definition": "A document submitted by a non-party to provide information to the court."
+    },
+    {
+      "term": "Annuity",
+      "definition": "A fixed sum of money paid regularly over time."
+    },
+    {
+      "term": "Answer and defense",
+      "definition": "A defendant’s written reply to a complaint, including defenses."
+    },
+    {
+      "term": "Antecedent",
+      "definition": "A prior fact or event relevant to a case."
+    },
+    {
+      "term": "Antenuptial agreement",
+      "definition": "A contract made before marriage outlining property rights."
+    },
+    {
+      "term": "Anticipatory breach",
+      "definition": "A party’s clear indication before performance that they will not fulfill contractual obligations."
+    },
+    {
+      "term": "Antitrust exemption",
+      "definition": "Legal permission for certain activities that would otherwise violate antitrust laws."
+    },
+    {
+      "term": "Apartment house exemption",
+      "definition": "A legal provision related to residential landlord-tenant law."
+    },
+    {
+      "term": "Apparent authority",
+      "definition": "When a third party reasonably believes an agent has authority to act on behalf of a principal."
+    },
+    {
+      "term": "Appeal bond",
+      "definition": "A bond required to suspend enforcement of a judgment during appeal."
+    },
+    {
+      "term": "Appellee’s brief",
+      "definition": "Written arguments submitted by the party defending the lower court’s decision."
+    },
+    {
+      "term": "Appropriation doctrine",
+      "definition": "Legal principle regarding the use of property or resources."
+    },
+    {
+      "term": "Appurtenance",
+      "definition": "A right or privilege attached to property, like a driveway or easement."
+    },
+    {
+      "term": "Arbiter",
+      "definition": "A person appointed to decide a dispute outside of court."
+    },
+    {
+      "term": "Architect’s lien",
+      "definition": "A claim on a property for unpaid architectural services."
+    },
+    {
+      "term": "Argumentum ad hominem",
+      "definition": "An argument attacking a person rather than their position."
+    },
+    {
+      "term": "Argumentum ad populum",
+      "definition": "An argument appealing to popular opinion instead of facts."
+    },
+    {
+      "term": "Arrest without warrant",
+      "definition": "Detaining a person without a court order under certain conditions."
+    },
+    {
+      "term": "Arsonist",
+      "definition": "A person who intentionally sets fire to property."
+    },
+    {
+      "term": "As is clause",
+      "definition": "A contract provision stating property is sold in its current condition."
+    },
+    {
+      "term": "As applied challenge",
+      "definition": "A legal challenge to a law’s application in a specific situation."
+    },
+    {
+      "term": "Assessment",
+      "definition": "The valuation of property for tax purposes."
+    },
+    {
+    "term": "Assignment for benefit of creditors",
+    "definition": "A transfer of assets to pay creditors outside of bankruptcy."
+  },
+  {
+    "term": "Assumption clause",
+    "definition": "A contract provision where one party takes on another’s obligations."
+  },
+  {
+    "term": "Assumption of duties",
+    "definition": "Agreement to take over contractual responsibilities."
+  },
+  {
+    "term": "Assumption of mortgage",
+    "definition": "Taking over responsibility for paying an existing mortgage."
+  },
+  {
+    "term": "Attachment of earnings",
+    "definition": "Court-ordered deduction from a person's wages to satisfy a debt."
+  },
+  {
+    "term": "Attest",
+    "definition": "To witness and certify the authenticity of a document or signature."
+  },
+  {
+    "term": "Attorney-in-fact",
+    "definition": "Someone authorized to act on behalf of another via power of attorney."
+  },
+  {
+    "term": "Attorney's lien",
+    "definition": "A lawyer's right to keep a client’s property until fees are paid."
+  },
+  {
+    "term": "Attorney's trust account",
+    "definition": "A separate bank account where attorneys hold clients’ funds."
+  },
+  {
+    "term": "Attornment",
+    "definition": "Tenant’s acknowledgment of a new landlord."
+  },
+  {
+    "term": "Auctioneer",
+    "definition": "A person who conducts auctions."
+  },
+  {
+    "term": "Auditor",
+    "definition": "A person who reviews and verifies financial records."
+  },
+  {
+    "term": "Authority",
+    "definition": "Legal power to act or make decisions."
+  },
+  {
+    "term": "Autrefois acquit",
+    "definition": "A plea claiming the defendant has been previously acquitted of the same offense."
+  },
+  {
+    "term": "Autrefois convict",
+    "definition": "A plea that the defendant has been previously convicted of the same offense."
+  },
+  {
+    "term": "Awarding attorney fees",
+    "definition": "A court ordering one party to pay the other's legal fees."
+  },
+  {
+    "term": "Aware",
+    "definition": "Having knowledge of relevant facts or law."
+  },
+  {
+    "term": "Aver",
+    "definition": "To assert or affirm formally in pleadings."
+  },
+  {
+    "term": "Avulsion",
+    "definition": "Sudden removal of land by natural forces."
+  },
+  {
+    "term": "Avoidable transfer",
+    "definition": "A transfer that can be undone by a court, often in bankruptcy."
+  },
+  {
+    "term": "Avoirdupois",
+    "definition": "A system of weights used in commerce."
+  },
+  {
+    "term": "Azure",
+    "definition": "Heraldic term for the color blue, occasionally appearing in legal contexts."
+  },
+  {
+    "term": "Azote",
+    "definition": "Rarely used legal term referring to nitrogen, sometimes in patent law contexts."
+  },
+  {
+    "term": "Ab initio",
+    "definition": "From the beginning; something void from the outset."
+  },
+  {
+    "term": "Abrogate",
+    "definition": "To repeal or annul a law or contract."
+  },
+  {
+    "term": "Absconding debtor",
+    "definition": "A debtor who flees to avoid creditors."
+  },
+  {
+    "term": "Absolute liability",
+    "definition": "Legal responsibility without fault or intent."
+  },
+  {
+    "term": "Abstention doctrine",
+    "definition": "A principle where federal courts decline jurisdiction in certain cases."
+  },
+  {
+    "term": "Accession",
+    "definition": "Addition to property by natural or artificial means."
+  },
+  {
+    "term": "Acquiescence",
+    "definition": "Acceptance of a situation by silence or lack of objection."
+  },
+  {
+    "term": "Actio personalis moritur cum persona",
+    "definition": "A personal action dies with the person."
+  },
+  {
+        "term": "Attachment order",
+        "definition": "A court order directing the seizure of property to satisfy a judgment."
+      },
+      {
+        "term": "Attorney of record",
+        "definition": "The attorney officially recognized as representing a party in a case."
+      },
+      {
+        "term": "Attorney-in-fact",
+        "definition": "An individual authorized to act for another through a power of attorney."
+      },
+      {
+        "term": "Attorney’s lien",
+        "definition": "The right of a lawyer to retain a client’s property until fees are paid."
+      },
+      {
+        "term": "Attractive nuisance",
+        "definition": "A hazardous condition on property that may attract children, making the owner liable for injuries."
+      },
+      {
+        "term": "Audit trail",
+        "definition": "Documentation or records tracing the history of a transaction or action."
+      },
+      {
+        "term": "Audi alteram partem",
+        "definition": "Latin for “hear the other side,” a principle of natural justice."
+      },
+      {
+        "term": "Authoritative precedent",
+        "definition": "A prior court decision that must be followed by lower courts."
+      },
+      {
+        "term": "Authority of law",
+        "definition": "The legal power to act or command obedience."
+      },
+      {
+        "term": "Automatic stay",
+        "definition": "A temporary halt on actions against a debtor once bankruptcy is filed."
+      },
+      {
+        "term": "Autonomy",
+        "definition": "The right or condition of self-government or self-determination."
+      },
+      {
+        "term": "Avalanche clause",
+        "definition": "A clause in insurance policies where multiple coverages are triggered by one event."
+      },
+      {
+        "term": "Avulsion",
+        "definition": "The sudden loss or detachment of land by natural forces."
+      },
+      {
+        "term": "Avoidable preference",
+        "definition": "A transfer of assets before bankruptcy that can be reversed by the court."
+      },
+      {
+        "term": "Award of costs",
+        "definition": "A court order requiring one party to pay the legal expenses of another."
+      },
+      {
+        "term": "Axiomatic rule",
+        "definition": "A basic principle or rule accepted without controversy."
+      },
+      {
+        "term": "Abatement",
+        "definition": "The reduction, removal, or cessation of a legal proceeding or nuisance."
+      },
+      {
+        "term": "Absolute divorce",
+        "definition": "A divorce that completely ends a marriage."
+      },
+      {
+        "term": "Abuse of process",
+        "definition": "Misuse of legal procedures for improper purposes."
+      },
+      {
+        "term": "Accessorial liability",
+        "definition": "Responsibility of a person who assists in a crime but does not directly commit it."
+      },
+      {
+        "term": "Acquiescence doctrine",
+        "definition": "Acceptance of a situation or claim by silence or inaction."
+      },
+      {
+        "term": "Act of commission",
+        "definition": "A deliberate act, as opposed to omission."
+      },
+      {
+        "term": "Act of omission",
+        "definition": "Failure to perform an act required by law."
+      },
+      {
+        "term": "Actuarial table",
+        "definition": "Statistical tables used to calculate risks and life expectancies."
+      },
+      {
+        "term": "Additur",
+        "definition": "A judge’s increase of damages awarded by a jury."
+      },
+      {
+        "term": "Adequate remedy at law",
+        "definition": "A legal remedy sufficient to resolve a dispute, precluding equitable relief."
+      },
+      {
+        "term": "Ademption",
+        "definition": "The failure of a legacy due to the property being unavailable at the testator’s death."
+      },
+      {
+        "term": "Adjunction",
+        "definition": "The act of bringing a matter before a court."
+      },
+      {
+        "term": "Admission against interest",
+        "definition": "A statement made by a party that is against their own legal interest."
+      },
+      {
+        "term": "Adoption proceeding",
+        "definition": "The legal process to establish a parent-child relationship."
+      },
+      {
+        "term": "Ad valorem duty",
+        "definition": "A customs duty based on the value of imported goods."
+      },
+        {
+    "term": "Assignment for benefit of creditors",
+    "definition": "A transfer of assets to pay creditors outside of bankruptcy."
+  },
+  {
+    "term": "Assumption clause",
+    "definition": "A contract provision where one party takes on another’s obligations."
+  },
+  {
+    "term": "Assumption of duties",
+    "definition": "Agreement to take over contractual responsibilities."
+  },
+  {
+    "term": "Assumption of mortgage",
+    "definition": "Taking over responsibility for paying an existing mortgage."
+  },
+  {
+    "term": "Attachment of earnings",
+    "definition": "Court-ordered deduction from a person's wages to satisfy a debt."
+  },
+  {
+    "term": "Attest",
+    "definition": "To witness and certify the authenticity of a document or signature."
+  },
+  {
+    "term": "Attorney-in-fact",
+    "definition": "Someone authorized to act on behalf of another via power of attorney."
+  },
+  {
+    "term": "Attorney's lien",
+    "definition": "A lawyer's right to keep a client’s property until fees are paid."
+  },
+  {
+    "term": "Attorney's trust account",
+    "definition": "A separate bank account where attorneys hold clients’ funds."
+  },
+  {
+    "term": "Attornment",
+    "definition": "Tenant’s acknowledgment of a new landlord."
+  },
+  {
+    "term": "Auctioneer",
+    "definition": "A person who conducts auctions."
+  },
+  {
+    "term": "Auditor",
+    "definition": "A person who reviews and verifies financial records."
+  },
+  {
+    "term": "Authority",
+    "definition": "Legal power to act or make decisions."
+  },
+  {
+    "term": "Autrefois acquit",
+    "definition": "A plea claiming the defendant has been previously acquitted of the same offense."
+  },
+  {
+    "term": "Autrefois convict",
+    "definition": "A plea that the defendant has been previously convicted of the same offense."
+  },
+  {
+    "term": "Awarding attorney fees",
+    "definition": "A court ordering one party to pay the other's legal fees."
+  },
+  {
+    "term": "Aware",
+    "definition": "Having knowledge of relevant facts or law."
+  },
+  {
+    "term": "Aver",
+    "definition": "To assert or affirm formally in pleadings."
+  },
+  {
+    "term": "Avulsion",
+    "definition": "Sudden removal of land by natural forces."
+  },
+  {
+    "term": "Avoidable transfer",
+    "definition": "A transfer that can be undone by a court, often in bankruptcy."
+  },
+  {
+    "term": "Avoirdupois",
+    "definition": "A system of weights used in commerce."
+  },
+  {
+    "term": "Azure",
+    "definition": "Heraldic term for the color blue, occasionally appearing in legal contexts."
+  },
+  {
+    "term": "Azote",
+    "definition": "Rarely used legal term referring to nitrogen, sometimes in patent law contexts."
+  },
+  {
+    "term": "Ab initio",
+    "definition": "From the beginning; something void from the outset."
+  },
+  {
+    "term": "Abrogate",
+    "definition": "To repeal or annul a law or contract."
+  },
+  {
+    "term": "Absconding debtor",
+    "definition": "A debtor who flees to avoid creditors."
+  },
+  {
+    "term": "Absolute liability",
+    "definition": "Legal responsibility without fault or intent."
+  },
+  {
+    "term": "Abstention doctrine",
+    "definition": "A principle where federal courts decline jurisdiction in certain cases."
+  },
+  {
+    "term": "Accession",
+    "definition": "Addition to property by natural or artificial means."
+  },
+  {
+    "term": "Acquiescence",
+    "definition": "Acceptance of a situation by silence or lack of objection."
+  },
+  {
+    "term": "Actio personalis moritur cum persona",
+    "definition": "A personal action dies with the person."
+  },
+  {
+    "term": "Actuarial science",
+    "definition": "The discipline that applies mathematical and statistical methods to assess risk."
+  },
+  {
+    "term": "Ad colligenda bona",
+    "definition": "A court order appointing a custodian to collect and preserve property."
+  },
+  {
+    "term": "Ad idem",
+    "definition": "Agreement of the minds; mutual consent."
+  },
+  {
+    "term": "Ad interim injunction",
+    "definition": "A temporary court order issued until a final decision is made."
+  },
+  {
+    "term": "Ad litem guardian",
+    "definition": "A guardian appointed to represent someone in a specific lawsuit."
+  },
+  {
+    "term": "Administrator",
+    "definition": "A person appointed to manage a deceased person’s estate when there’s no will."
+  },
+  {
+    "term": "Adoption decree",
+    "definition": "The official court order that finalizes an adoption."
+  },
+  {
+    "term": "Ad valorem tax",
+    "definition": "A tax based on the assessed value of property or goods."
+  },
+  {
+    "term": "Adversary proceeding",
+    "definition": "A lawsuit filed within a bankruptcy case."
+  },
+  {
+    "term": "Affidavit of merit",
+    "definition": "A sworn statement that a claim has merit, often in malpractice suits."
+  },
+  {
+    "term": "Affirmation",
+    "definition": "A solemn declaration without religious oath."
+  },
+  {
+    "term": "Agency by ratification",
+    "definition": "When a principal approves an agent’s unauthorized act, creating agency retroactively."
+  },
+  {
+    "term": "Agent provocateur",
+    "definition": "A person who induces another to commit a crime they otherwise might not have committed."
+  },
+  {
+    "term": "Agreement in principle",
+    "definition": "A preliminary agreement outlining the basic terms of a contract."
+  },
+  {
+    "term": "Alford plea",
+    "definition": "A guilty plea where the defendant maintains innocence but admits enough evidence exists for conviction."
+  },
+  {
+    "term": "Alienation of title",
+    "definition": "The voluntary or involuntary transfer of property ownership."
+  },
+  {
+    "term": "Allegory of the cave",
+    "definition": "Philosophical term sometimes referenced in legal theory about perception and reality."
+  },
+  {
+        "term": "Alternative liability",
+        "definition": "A doctrine allowing liability to be imposed when multiple parties could have caused harm."
+      },
+      {
+        "term": "Amicus curiae",
+        "definition": "“Friend of the court”; a person or group offering information or expertise to the court."
+      },
+      {
+        "term": "Analogy",
+        "definition": "Reasoning based on similarity between cases or situations."
+      },
+      {
+        "term": "Ancillary jurisdiction",
+        "definition": "A court's authority to hear additional claims closely related to a case."
+      },
+      {
+        "term": "Annuity certain",
+        "definition": "An annuity that pays for a fixed period regardless of survival."
+      },
+      {
+        "term": "Answer to complaint",
+        "definition": "The defendant's formal written response to a plaintiff’s allegations."
+      },
+      {
+        "term": "Antecedent debt",
+        "definition": "A pre-existing debt owed before a new agreement."
+      },
+      {
+        "term": "Antenuptial agreement",
+        "definition": "Also known as a prenuptial agreement; a contract made before marriage about property rights."
+      },
+      {
+        "term": "Anticipatory repudiation",
+        "definition": "When a party indicates they will not perform their contractual duties before the time of performance."
+      },
+      {
+        "term": "Apparent authority",
+        "definition": "Authority a third party reasonably believes an agent has, based on the principal's conduct."
+      },
+      {
+        "term": "Appurtenant easement",
+        "definition": "A right benefiting a particular piece of land and its owner."
+      },
+      {
+        "term": "Arbitrary and capricious",
+        "definition": "A legal standard for reviewing government decisions that are unreasonable or without basis."
+      },
+      {
+        "term": "Arbitrable",
+        "definition": "Subject to arbitration."
+      },
+      {
+        "term": "Arrest warrant",
+        "definition": "A court order authorizing law enforcement to detain a person."
+      },
+      {
+        "term": "Asportation",
+        "definition": "The carrying away or removal of property, often relevant in theft cases."
+      },
+      {
+        "term": "Asylum seeker",
+        "definition": "A person who flees their home country and requests protection in another country."
+      },
+      {
+        "term": "Assault rifle",
+        "definition": "A firearm capable of rapid fire, often regulated under specific laws."
+      },
+      {
+        "term": "Assent",
+        "definition": "The expression of approval or agreement to a proposal or contract."
+      },
+      {
+        "term": "Assignment of rents",
+        "definition": "A landlord’s transfer of the right to collect rents to another party, often a lender."
+      },
+      {
+        "term": "Assumption of duties",
+        "definition": "Taking on responsibilities under a contract or legal obligation."
+      },
+      {
+        "term": "Assumption of risk doctrine",
+        "definition": "A defense in tort law where a plaintiff knowingly accepts the risks inherent in an activity."
+      },
+      {
+        "term": "Assurance",
+        "definition": "A formal declaration or promise, often related to insurance."
+      },
+       {
+    "term": "Adversary system",
+    "definition": "A legal system where parties present opposing arguments before a neutral judge or jury."
+  },
+  {
+    "term": "Adverse claim",
+    "definition": "A claim asserted by someone denying another's right or title."
+  },
+  {
+    "term": "Adverse possession statute",
+    "definition": "Laws defining the requirements to claim property through adverse possession."
+  },
+  {
+    "term": "Affirmative action",
+    "definition": "Policies aimed at increasing opportunities for historically marginalized groups."
+  },
+  {
+    "term": "Affirmative covenant",
+    "definition": "A promise in a deed or contract to perform certain actions."
+  },
+  {
+    "term": "Agent's authority",
+    "definition": "The scope of power granted to an agent by a principal."
+  },
+  {
+    "term": "Aggrieved party",
+    "definition": "One who has suffered legal harm or injury."
+  },
+  {
+    "term": "Agreement to arbitrate",
+    "definition": "A contract clause requiring disputes to be resolved through arbitration."
+  },
+  {
+    "term": "Allegation of fact",
+    "definition": "A claim or assertion about a fact in a legal pleading."
+  },
+  {
+    "term": "Allocation clause",
+    "definition": "Contract provision detailing distribution of assets or liabilities."
+  },
+  {
+    "term": "Alternative remedy",
+    "definition": "A different form of legal or equitable relief available."
+  },
+  {
+    "term": "Amicus curiae brief",
+    "definition": "A document submitted by a non-party to assist the court."
+  },
+  {
+    "term": "Ancillary probate",
+    "definition": "Probate proceedings for property located in a different jurisdiction."
+  },
+  {
+    "term": "Annulment decree",
+    "definition": "A court order declaring a marriage null and void."
+  },
+  {
+    "term": "Anticipatory breach doctrine",
+    "definition": "The legal principle regarding breach of contract before performance is due."
+  },
+  {
+    "term": "Appealability",
+    "definition": "The quality of a decision or order that allows it to be appealed."
+  },
+  {
+    "term": "Appellee's brief",
+    "definition": "The response brief filed by the party defending a lower court's ruling."
+  },
+  {
+    "term": "Appurtenant right",
+    "definition": "A right connected to the ownership of land."
+  },
+  {
+    "term": "Arbitration clause",
+    "definition": "A contract provision requiring arbitration of disputes."
+  },
+  {
+    "term": "Arm's length transaction",
+    "definition": "A deal made by parties acting independently without influence."
+  },
+  {
+    "term": "Arranger",
+    "definition": "A person who organizes a financial transaction."
+  },
+  {
+    "term": "Assent to contract",
+    "definition": "Agreement by a party to the terms of a contract."
+  },
+  {
+    "term": "Assignment of lease",
+    "definition": "Transfer of a tenant's interest in a lease to another party."
+  },
+  {
+    "term": "Assignment of mortgage",
+    "definition": "Transfer of a mortgage from one lender to another."
+  },
+  {
+    "term": "Assumption of contract",
+    "definition": "Taking on obligations and benefits of a contract by a third party."
+  },
+  {
+    "term": "Assumption of risk defense",
+    "definition": "A defense claiming the plaintiff knowingly took a risk."
+  },
+  {
+    "term": "Asylum law",
+    "definition": "Legal provisions regarding protection for refugees and asylum seekers."
+  },
+  {
+    "term": "Attachment bond",
+    "definition": "A security bond required to obtain a court attachment order."
+  },
+  {
+    "term": "Attestation clause",
+    "definition": "A statement in a document confirming it was witnessed and signed properly."
+  },
+  {
+    "term": "Attorney general opinion",
+    "definition": "Formal legal opinions issued by a state's chief legal officer."
+  },
+  {
+    "term": "Attorney's eyes only",
+    "definition": "A confidentiality designation restricting access to legal documents."
+  },
+  {
+    "term": "Attorney work product",
+    "definition": "Materials prepared by attorneys in anticipation of litigation."
+  },
+  {
+    "term": "Attorney's lien statute",
+    "definition": "Laws defining attorneys' rights to secure payment."
+  },
+  {
+    "term": "Automated enforcement",
+    "definition": "Use of technology like cameras to enforce laws (e.g., speeding)."
+  },
+  {
+    "term": "Automatic extension",
+    "definition": "An automatic prolongation of a contract or deadline."
+  },
+  {
+    "term": "Automatic renewal clause",
+    "definition": "Contract provision that renews the agreement unless canceled."
+  },
+  {
+    "term": "Autonomous agency",
+    "definition": "A government agency operating independently."
+  },
+  {
+    "term": "Average clause",
+    "definition": "A clause in marine insurance limiting the insurer's liability."
+  },
+  {
+    "term": "Avoidable transfer",
+    "definition": "A transfer that a bankruptcy trustee can undo."
+  },
+   {
+        "term": "Alternative liability",
+        "definition": "A doctrine allowing liability to be imposed when multiple parties could have caused harm."
+      },
+      {
+        "term": "Amicus curiae",
+        "definition": "“Friend of the court”; a person or group offering information or expertise to the court."
+      },
+      {
+        "term": "Analogy",
+        "definition": "Reasoning based on similarity between cases or situations."
+      },
+      {
+        "term": "Ancillary jurisdiction",
+        "definition": "A court's authority to hear additional claims closely related to a case."
+      },
+      {
+        "term": "Annuity certain",
+        "definition": "An annuity that pays for a fixed period regardless of survival."
+      },
+      {
+        "term": "Answer to complaint",
+        "definition": "The defendant's formal written response to a plaintiff’s allegations."
+      },
+      {
+        "term": "Antecedent debt",
+        "definition": "A pre-existing debt owed before a new agreement."
+      },
+      {
+        "term": "Antenuptial agreement",
+        "definition": "Also known as a prenuptial agreement; a contract made before marriage about property rights."
+      },
+      {
+        "term": "Anticipatory repudiation",
+        "definition": "When a party indicates they will not perform their contractual duties before the time of performance."
+      },
+      {
+        "term": "Apparent authority",
+        "definition": "Authority a third party reasonably believes an agent has, based on the principal's conduct."
+      },
+      {
+        "term": "Appurtenant easement",
+        "definition": "A right benefiting a particular piece of land and its owner."
+      },
+      {
+        "term": "Arbitrary and capricious",
+        "definition": "A legal standard for reviewing government decisions that are unreasonable or without basis."
+      },
+      {
+        "term": "Arbitrable",
+        "definition": "Subject to arbitration."
+      },
+      {
+        "term": "Arrest warrant",
+        "definition": "A court order authorizing law enforcement to detain a person."
+      },
+      {
+        "term": "Asportation",
+        "definition": "The carrying away or removal of property, often relevant in theft cases."
+      },
+      {
+        "term": "Asylum seeker",
+        "definition": "A person who flees their home country and requests protection in another country."
+      },
+      {
+        "term": "Assault rifle",
+        "definition": "A firearm capable of rapid fire, often regulated under specific laws."
+      },
+      {
+        "term": "Assent",
+        "definition": "The expression of approval or agreement to a proposal or contract."
+      },
+      {
+        "term": "Assignment of rents",
+        "definition": "A landlord’s transfer of the right to collect rents to another party, often a lender."
+      },
+      {
+        "term": "Assumption of duties",
+        "definition": "Taking on responsibilities under a contract or legal obligation."
+      },
+      {
+        "term": "Assumption of risk doctrine",
+        "definition": "A defense in tort law where a plaintiff knowingly accepts the risks inherent in an activity."
+      },
+      {
+        "term": "Assurance",
+        "definition": "A formal declaration or promise, often related to insurance."
+      },
+      {
+        "term": "Award of attorney fees",
+        "definition": "Court order to make one party pay the other’s legal fees."
+      },
+      {
+        "term": "Awareness doctrine",
+        "definition": "Legal concept regarding knowledge of facts or law."
+      },
+      {
+        "term": "Azote",
+        "definition": "Rare term sometimes used in patent law referring to nitrogen or gaseous elements."
+      },
+      {
+        "term": "Abandonment of claim",
+        "definition": "The voluntary relinquishment of a legal claim or right."
+      },
+      {
+        "term": "Abatement of action",
+        "definition": "Suspension or dismissal of a lawsuit due to procedural issues."
+      },
+      {
+        "term": "Abstract of judgment",
+        "definition": "A summary of a court’s judgment used to create a lien on property."
+      },
+      {
+        "term": "Abstract of title",
+        "definition": "A summary of the legal history and ownership of a property."
+      },
+      {
+        "term": "Abuse of discretion standard",
+        "definition": "A standard of review where a court examines whether a decision was arbitrary or unreasonable."
+      },
+      {
+        "term": "Acceptance of offer",
+        "definition": "The expression of assent to the terms of a contract proposal."
+      },
+      {
+        "term": "Access to justice",
+        "definition": "The ability of individuals to obtain legal help and have their disputes resolved."
+      },
+      {
+        "term": "Accident reconstruction",
+        "definition": "The analysis of vehicle crashes for legal purposes."
+      },
+      {
+        "term": "Accord and satisfaction",
+        "definition": "A contract to settle a dispute and the execution of that contract."
+      },
+      {
+        "term": "Account stated",
+        "definition": "An agreement between parties on the amount owed in a financial transaction."
+      },
+      {
+        "term": "Accountability",
+        "definition": "Being responsible for one’s actions, especially in legal or official matters."
+      },
+      {
+        "term": "Accrual of cause of action",
+        "definition": "The point in time when a legal claim arises."
+      },
+      {
+        "term": "Accusation",
+        "definition": "A formal charge or allegation of wrongdoing."
+      },
+      {
+        "term": "Acquittal verdict",
+        "definition": "A jury’s finding that the defendant is not guilty."
+      },
+      {
+        "term": "Act of state doctrine",
+        "definition": "A principle that courts won’t examine acts of foreign governments within their own territory."
+      },
+      {
+        "term": "Actus reus",
+        "definition": "The physical act of committing a crime."
+      },
+      {
+        "term": "Adjudicatory hearing",
+        "definition": "A court proceeding to determine the facts in a case."
+      },
+      {
+        "term": "Admissibility",
+        "definition": "Whether evidence is allowed to be introduced in court."
+      },
+      {
+        "term": "Adoption records",
+        "definition": "Official documents related to adoption proceedings."
+      },
+      {
+        "term": "Ad valorem taxation",
+        "definition": "Taxation based on the assessed value of property or goods."
+      },
+      {
+        "term": "Adverse claim",
+        "definition": "A claim made by one party denying another's right to property or title."
+      },
+      {
+        "term": "Adverse inference",
+        "definition": "A legal presumption drawn against a party that refuses to present evidence."
+      },
+      {
+        "term": "Adverse party",
+        "definition": "The opposing party in a legal proceeding."
+      },
+      {
+        "term": "Adverse possession",
+        "definition": "Acquiring ownership of property by continuous and hostile possession."
+      },
+      {
+        "term": "Adversus factum proprium",
+        "definition": "Acting in contradiction to one's own previous conduct to the detriment of another."
+      },
+      {
+        "term": "Affidavit of support",
+        "definition": "A sworn document promising financial support, often used in immigration."
+      },
+       {
+    "term": "Affirmative defense",
+    "definition": "A defense in which the defendant introduces evidence to negate liability."
+  },
+  {
+    "term": "Agent",
+    "definition": "A person authorized to act on behalf of another."
+  },
+  {
+    "term": "Agreement",
+    "definition": "A mutual understanding between parties about their rights and obligations."
+  },
+  {
+    "term": "Allegation",
+    "definition": "A statement or assertion made without proof in a legal pleading."
+  },
+  {
+    "term": "Allegiance",
+    "definition": "Loyalty or duty owed to a sovereign or government."
+  },
+  {
+    "term": "Allocation of damages",
+    "definition": "The division of financial responsibility among liable parties."
+  },
+  {
+    "term": "Alternative dispute resolution (ADR)",
+    "definition": "Methods like mediation or arbitration used instead of court litigation."
+  },
+  {
+    "term": "Amicus curiae",
+    "definition": "A “friend of the court” who provides information or expertise to aid the court’s decision."
+  },
+  {
+    "term": "Ancillary jurisdiction",
+    "definition": "The authority of a court to hear additional claims related to a case."
+  },
+  {
+    "term": "Annulment",
+    "definition": "A legal declaration that a marriage is void from the start."
+  },
+  {
+    "term": "Answer",
+    "definition": "A defendant’s formal response to a complaint."
+  },
+  {
+    "term": "Antenuptial agreement",
+    "definition": "A contract made before marriage regarding property rights."
+  },
+  {
+    "term": "Anticipatory repudiation",
+    "definition": "A party’s indication that they will not fulfill contractual duties before the time of performance."
+  },
+  {
+    "term": "Appellate court",
+    "definition": "A higher court that reviews decisions of lower courts."
+  },
+  {
+    "term": "Appellant",
+    "definition": "The party who appeals a court decision."
+  },
+  {
+    "term": "Appellee",
+    "definition": "The party against whom an appeal is filed."
+  },
+  {
+    "term": "Appurtenant easement",
+    "definition": "A right attached to land allowing the use of neighboring property."
+  },
+  {
+    "term": "Arbitration award",
+    "definition": "The final decision issued by an arbitrator."
+  },
+  {
+    "term": "Arraignment",
+    "definition": "A court proceeding where charges are formally read to the defendant."
+  },
+  {
+    "term": "Arrest warrant",
+    "definition": "A legal document authorizing law enforcement to detain an individual."
+  },
+  {
+    "term": "Arson",
+    "definition": "The criminal act of intentionally setting fire to property."
+  },
+  {
+    "term": "Assault",
+    "definition": "An intentional act causing apprehension of harmful or offensive contact."
+  },
+  {
+    "term": "Assumption of risk",
+    "definition": "A defense where the plaintiff voluntarily accepted known risks."
+  },
+  {
+    "term": "Assignment",
+    "definition": "The transfer of rights or property to another party."
+  },
+  {
+    "term": "Assignment of contract",
+    "definition": "Transferring contractual rights and obligations to another."
+  },
+  {
+    "term": "Assignee",
+    "definition": "A person who receives rights or property by assignment."
+  },
+  {
+    "term": "Assessor",
+    "definition": "An official who evaluates property for taxation."
+  },
+  {
+    "term": "Assumpsit",
+    "definition": "A common law action for breach of contract."
+  },
+  {
+    "term": "Attachment",
+    "definition": "Legal seizure of property to secure a claim or judgment."
+  },
+  {
+    "term": "Attestation",
+    "definition": "The act of witnessing and certifying a document."
+  },
+  {
+    "term": "Attorney-in-fact",
+    "definition": "A person authorized to act on another’s behalf through power of attorney."
+  },
+  {
+    "term": "Attorney-client privilege",
+    "definition": "The confidentiality of communication between attorney and client."
+  },
+  {
+    "term": "Authority",
+    "definition": "The legal power to act or make decisions."
+  },
+  {
+    "term": "Automated teller machine (ATM) law",
+    "definition": "Laws governing the use and security of ATMs."
+  },
+  {
+    "term": "Abandonment of inheritance",
+    "definition": "Voluntary refusal to accept an inheritance or legacy."
+  },
+  {
+    "term": "Abstract of lien",
+    "definition": "A summary record of a lien filed against property."
+  },
+  {
+    "term": "Abusive litigation",
+    "definition": "Filing lawsuits with malicious intent or without merit to harass."
+  },
+  {
+    "term": "Accessorial liability",
+    "definition": "Legal responsibility of a person who assists or encourages a crime."
+  },
+  {
+    "term": "Account debtor",
+    "definition": "A person obligated to pay under an account or contract."
+  },
+  {
+    "term": "Accretion",
+    "definition": "Gradual accumulation of land by natural causes like sediment deposits."
+  },
+  {
+    "term": "Acquiescent doctrine",
+    "definition": "Acceptance of a claim or fact by silence or inaction."
+  },
+  {
+    "term": "Act of insolvency",
+    "definition": "An act that demonstrates a person’s inability to pay debts."
+  },
+  {
+    "term": "Actus non facit reum nisi mens sit rea",
+    "definition": "Latin: An act does not make a person guilty unless there is guilty intent."
+  },
+  {
+    "term": "Actual occupation",
+    "definition": "Physical possession or use of property."
+  },
+  {
+    "term": "Ad colligenda bona",
+    "definition": "A court order authorizing collection and preservation of assets."
+  },
+  {
+    "term": "Ad damnum",
+    "definition": "The part of a complaint stating the amount of damages claimed."
+  },
+  {
+    "term": "Adhesion contract",
+    "definition": "A standardized contract offered on a take-it-or-leave-it basis."
+  },
+  {
+    "term": "Adjournment sine die",
+    "definition": "Postponement of a court session without setting a date to resume."
+  },
+  {
+    "term": "Administrator de bonis non",
+    "definition": "A person appointed to administer the remaining estate after an executor resigns or dies."
+  },
+  {
+    "term": "Adoption consent",
+    "definition": "Permission given by a biological parent or guardian for adoption."
+  },
+   {
+    "term": "Ad valorem",
+    "definition": "Based on the assessed value, especially for taxation."
+  },
+  {
+    "term": "Adverse claim notice",
+    "definition": "A formal declaration by a claimant opposing another’s title or rights."
+  },
+  {
+    "term": "Adverse witness",
+    "definition": "A witness whose testimony is unfavorable to the party calling them."
+  },
+  {
+    "term": "Affirmative injunction",
+    "definition": "A court order requiring a party to take a specific action."
+  },
+  {
+    "term": "Agent of record",
+    "definition": "The attorney officially recognized as representing a party in a case."
+  },
+  {
+    "term": "Agreed statement",
+    "definition": "A written statement of facts agreed upon by both parties to streamline a trial."
+  },
+  {
+    "term": "Alienation clause",
+    "definition": "A provision in a mortgage requiring full repayment if the property is sold."
+  },
+  {
+    "term": "Alienee",
+    "definition": "The person to whom property or rights are transferred."
+  },
+  {
+    "term": "Alienor",
+    "definition": "The person who transfers property or rights to another."
+  },
+  {
+    "term": "Alimony pendente lite",
+    "definition": "Temporary spousal support during divorce proceedings."
+  },
+  {
+    "term": "Allonge",
+    "definition": "A piece of paper attached to a negotiable instrument for endorsements."
+  },
+  {
+    "term": "Alter ego doctrine",
+    "definition": "Legal theory holding a corporation’s owners personally liable under certain conditions."
+  },
+  {
+    "term": "Alternative writ",
+    "definition": "A court order commanding a party to perform an act or show cause why they should not."
+  },
+  {
+    "term": "Ambiguity",
+    "definition": "A lack of clarity or uncertainty in language or terms."
+  },
+  {
+    "term": "Amendment to complaint",
+    "definition": "A formal change or addition to a legal complaint."
+  },
+  {
+    "term": "Amicus brief",
+    "definition": "A legal document submitted by a non-party offering information relevant to the case."
+  },
+  {
+    "term": "Ancillary relief",
+    "definition": "Additional remedies awarded in family law cases, like custody or maintenance."
+  },
+  {
+    "term": "Annulment of marriage",
+    "definition": "A legal declaration that a marriage is null and void."
+  },
+  {
+    "term": "Answer to interrogatories",
+    "definition": "Written responses to formal questions in discovery."
+  },
+  {
+    "term": "Antitrust exemption",
+    "definition": "A legal exemption from antitrust laws for specific activities or entities."
+  },
+  {
+    "term": "Appealable judgment",
+    "definition": "A court’s decision that can be challenged in a higher court."
+  },
+  {
+        "term": "Appeal bond",
+        "definition": "Security posted to ensure payment of costs if an appeal is unsuccessful."
+      },
+      {
+        "term": "Appellate jurisdiction",
+        "definition": "The authority of a court to review decisions of lower courts."
+      },
+      {
+        "term": "Appurtenance",
+        "definition": "A right or privilege attached to property, such as easements or water rights."
+      },
+      {
+        "term": "Arbitrability",
+        "definition": "The suitability of a dispute to be resolved by arbitration."
+      },
+      {
+        "term": "Arrest",
+        "definition": "The act of detaining a person by legal authority."
+      },
+      {
+        "term": "Arrest without warrant",
+        "definition": "Detaining a person without prior court approval under certain conditions."
+      },
+      {
+        "term": "Arsonist",
+        "definition": "Someone who intentionally sets fire to property."
+      },
+      {
+        "term": "Article of incorporation",
+        "definition": "A legal document establishing a corporation."
+      },
+      {
+        "term": "Assault and battery",
+        "definition": "Assault is the threat or attempt; battery is the actual physical contact."
+      },
+      {
+        "term": "Assent",
+        "definition": "Agreement or approval, often to a contract or proposal."
+      },
+      {
+        "term": "Assignment for the benefit of creditors",
+        "definition": "A transfer of assets to a third party to pay debts outside bankruptcy."
+      },
+      {
+        "term": "Assumption of mortgage",
+        "definition": "Taking responsibility for an existing mortgage loan."
+      },
+      {
+        "term": "Assumption of risk",
+        "definition": "Voluntarily accepting a known risk, limiting liability."
+      },
+      {
+        "term": "Attachment lien",
+        "definition": "A court order allowing a creditor to seize property to satisfy a debt."
+      },
+      {
+        "term": "Attorney of record",
+        "definition": "The attorney officially recognized as representing a party in legal proceedings."
+      },
+      {
+        "term": "Attorney’s fees",
+        "definition": "The charges billed by a lawyer for legal services."
+      },
+      {
+        "term": "Attornment",
+        "definition": "A tenant’s acknowledgment of a new landlord."
+      },
+      {
+        "term": "Auditor’s certificate",
+        "definition": "A report confirming the accuracy of financial statements."
+      },
+      {
+        "term": "Audi alteram partem",
+        "definition": "The principle that no person should be judged without a fair hearing."
+      },
+      {
+        "term": "Authority",
+        "definition": "The legal power to act or make decisions."
+      },
+      {
+        "term": "Automatic stay",
+        "definition": "A suspension of creditor actions upon the filing of bankruptcy."
+      },
+      {
+        "term": "Avoirdupois",
+        "definition": "A system of weights used in commerce."
+      },
+      {
+        "term": "Ab initio",
+        "definition": "From the beginning; void from the outset."
+      },
+      {
+        "term": "Abuse of process",
+        "definition": "Improper use of legal procedures for ulterior purposes."
+      },
+      {
+        "term": "Acceptance",
+        "definition": "An agreement to an offer, creating a contract."
+      },
+      {
+        "term": "Access to counsel",
+        "definition": "The right to consult with a lawyer."
+      },
+      {
+        "term": "Accessory",
+        "definition": "A person who assists in a crime without directly committing it."
+      },
+      {
+        "term": "Accord and satisfaction",
+        "definition": "Agreement resolving a dispute and fulfilling an obligation."
+      },
+      {
+        "term": "Account stated",
+        "definition": "A mutual agreement of the amount owed."
+      },
+       {
+    "term": "Accrual",
+    "definition": "The accumulation of something, such as interest or rights."
+  },
+  {
+    "term": "Acquittal",
+    "definition": "A legal judgment of not guilty."
+  },
+  {
+    "term": "Act of God",
+    "definition": "An unforeseen natural event like a flood or earthquake."
+  },
+  {
+    "term": "Actus reus",
+    "definition": "The physical act of committing a crime."
+  },
+  {
+    "term": "Additur",
+    "definition": "A judge’s increase in damages awarded by a jury."
+  },
+  {
+    "term": "Admissible evidence",
+    "definition": "Evidence allowed to be presented in court."
+  },
+  {
+    "term": "Adoption",
+    "definition": "The legal process of taking another’s child as one’s own."
+  },
+  {
+    "term": "Affidavit",
+    "definition": "A sworn written statement made under oath."
+  },
+  {
+    "term": "Affirmation",
+    "definition": "A solemn declaration equivalent to an oath."
+  },
+  {
+    "term": "Agency",
+    "definition": "A relationship where one party acts on behalf of another."
+  },
+  {
+    "term": "Alienation",
+    "definition": "The transfer of property or rights."
+  },
+  {
+    "term": "Alien enemy",
+    "definition": "A citizen of a country hostile to the state where they reside."
+  },
+  {
+    "term": "Allocation of loss",
+    "definition": "Distribution of financial loss among responsible parties."
+  },
+  {
+    "term": "Alteration",
+    "definition": "A change or modification in a legal document."
+  },
+  {
+    "term": "Annexation",
+    "definition": "The legal addition of territory to a city or state."
+  },
+  {
+    "term": "Annual general meeting (AGM)",
+    "definition": "A yearly meeting of shareholders or members of an organization."
+  },
+  {
+    "term": "Antitrust laws",
+    "definition": "Laws designed to prevent monopolies and promote competition."
+  },
+  {
+    "term": "Appeal",
+    "definition": "A request to a higher court to review a lower court’s decision."
+  },
+  {
+    "term": "Appropriation",
+    "definition": "Unauthorized use of another’s name or property, or allocation of funds."
+  },
+  {
+    "term": "Arbitration",
+    "definition": "A process where a neutral third party resolves disputes outside of court."
+  },
+   {
+        "term": "Attachment",
+        "definition": "Legal seizure of property to satisfy a judgment or claim."
+      },
+      {
+        "term": "Abatement of nuisance",
+        "definition": "The removal or cessation of a nuisance."
+      },
+      {
+        "term": "Abstract of title",
+        "definition": "A summary of the legal history of a property’s ownership."
+      },
+      {
+        "term": "Absolute privilege",
+        "definition": "Complete immunity from liability for statements made in certain contexts."
+      },
+      {
+        "term": "Accretion",
+        "definition": "The gradual addition of land by natural forces like water or sediment."
+      },
+      {
+        "term": "Acquiescence",
+        "definition": "Agreement or acceptance through silence or lack of objection."
+      },
+      {
+        "term": "Act of parliament",
+        "definition": "Legislation passed by a parliament."
+      },
+      {
+        "term": "Action in rem",
+        "definition": "A lawsuit directed against property rather than a person."
+      },
+      {
+        "term": "Adjudicative competence",
+        "definition": "The ability of a party to understand and participate in legal proceedings."
+      },
+      {
+        "term": "Administrator",
+        "definition": "A person appointed to manage the estate of someone who dies without a will."
+      },
+      {
+        "term": "Adoption decree",
+        "definition": "The final court order legally establishing an adoption."
+      },
+      {
+        "term": "Adverse event",
+        "definition": "An incident causing harm or injury, often used in medical law."
+      },
+      {
+        "term": "Affidavit of service",
+        "definition": "A sworn statement confirming that documents were properly delivered."
+      },
+      {
+        "term": "Affirmative defense",
+        "definition": "A defense admitting the facts but presenting other facts to avoid liability."
+      },
+      {
+        "term": "Agent’s duty",
+        "definition": "The obligations an agent owes to their principal, such as loyalty and care."
+      },
+      {
+        "term": "Agreement of sale",
+        "definition": "A contract where one party agrees to sell and another to buy property."
+      },
+      {
+        "term": "Alibi",
+        "definition": "Evidence showing a defendant was elsewhere when a crime occurred."
+      },
+      {
+        "term": "Alimony",
+        "definition": "Financial support paid to a spouse after separation or divorce."
+      },
+      {
+        "term": "Alter ego liability",
+        "definition": "Holding a corporation’s owners personally liable when corporate formalities are ignored."
+      },
+      {
+        "term": "Amendment",
+        "definition": "A formal change to a legal document or legislation."
+      },
+      {
+        "term": "Ancillary relief",
+        "definition": "Additional court orders related to a divorce, such as child custody or maintenance."
+      },
+      {
+        "term": "And/or",
+        "definition": "A phrase used to indicate that either one or both options may apply."
+      },
+      {
+        "term": "Answer",
+        "definition": "A defendant’s formal written response to a complaint."
+      },
+      {
+        "term": "Antenuptial contract",
+        "definition": "Another term for prenuptial agreement, outlining property rights before marriage."
+      },
+      {
+        "term": "Anticipatory breach of contract",
+        "definition": "When one party indicates they will not perform their contractual duties before the performance date."
+      },
+      {
+        "term": "Appeal bond",
+        "definition": "A security deposit posted by an appellant to ensure payment of costs if the appeal fails."
+      },
+      {
+        "term": "Appellant court",
+        "definition": "A court that reviews decisions of lower courts."
+      },
+      {
+        "term": "Appurtenant",
+        "definition": "Something belonging to or attached to something else, especially land."
+      },
+      {
+        "term": "Arbitrable",
+        "definition": "Subject to arbitration."
+      },
+      {
+        "term": "Arbitrator",
+        "definition": "A neutral third party who resolves disputes outside of court."
+      },
+      {
+        "term": "Arraignment",
+        "definition": "The court proceeding where charges are formally read and a plea is entered."
+      },
+      {
+        "term": "Arrest",
+        "definition": "The act of detaining a person by legal authority."
+      },
+      {
+        "term": "Assignment",
+        "definition": "The transfer of rights or property to another party."
+      },
+      {
+        "term": "Assumption of risk",
+        "definition": "A defense asserting that the plaintiff knowingly accepted the risk involved."
+      },
+      {
+        "term": "Attachment lien",
+        "definition": "A court-ordered seizure of property to secure a judgment."
+      },
+      {
+        "term": "Attorney’s fees",
+        "definition": "The fees charged by a lawyer for their services."
+      },
+      {
+        "term": "Attorney-in-fact",
+        "definition": "Someone authorized to act on another’s behalf, usually through a power of attorney."
+      },
+      {
+        "term": "Audi alteram partem",
+        "definition": "Latin phrase meaning 'hear the other side,' a principle of natural justice."
+      },
+      {
+        "term": "Authority",
+        "definition": "The legal power to act or make decisions."
+      },
+      {
+        "term": "Automatic stay",
+        "definition": "A temporary halt to all collection activities against a debtor after bankruptcy filing."
+      },
+      {
+        "term": "Assignment",
+        "definition": "The transfer of rights or interests in property or contracts."
+      },
+      {
+        "term": "Avulsion",
+        "definition": "The sudden removal of land by natural forces."
+      },
+      {
+        "term": "Abatement of debt",
+        "definition": "A reduction or cancellation of a debt due to specific circumstances."
+      },
+      {
+        "term": "Abstract of judgment",
+        "definition": "A document summarizing a court’s judgment to create a lien on property."
+      },
+      {
+        "term": "Absolute liability",
+        "definition": "Liability without fault or negligence."
+      },
+      {
+        "term": "Acceptance of service",
+        "definition": "When a party formally acknowledges receipt of legal documents."
+      },
+      {
+        "term": "Access to evidence",
+        "definition": "The right to obtain evidence necessary for a legal case."
+      },
+      {
+        "term": "Accord and satisfaction",
+        "definition": "A contract in which parties agree to settle a dispute and fulfill obligations."
+      },
+      {
+        "term": "Account stated",
+        "definition": "An agreement between parties on the amount owed."
+      },
+      {
+        "term": "Accrual of cause of action",
+        "definition": "The time when a legal claim arises."
+      },
+      {
+        "term": "Acquittal",
+        "definition": "A legal judgment that the defendant is not guilty."
+      },
+      {
+        "term": "Act of insolvency",
+        "definition": "An act demonstrating a debtor’s inability to pay debts."
+      },
+      {
+        "term": "Actus reus",
+        "definition": "The physical act of committing a crime."
+      },
+      {
+        "term": "Additur",
+        "definition": "A judge’s increase of damages awarded by a jury."
+      },
+      {
+        "term": "Adjudicative competence",
+        "definition": "The ability of a party to understand and participate in legal proceedings."
+      },
+      {
+        "term": "Administrator de bonis non",
+        "definition": "A person appointed to manage the remainder of an estate after the original administrator dies or resigns."
+      },
+      {
+    "term": "Adoption consent",
+    "definition": "Permission given by a parent or guardian for a child’s adoption."
+  },
+  {
+    "term": "Ad valorem tax",
+    "definition": "A tax based on the assessed value of property or goods."
+  },
+  {
+    "term": "Adverse event",
+    "definition": "An unexpected harmful occurrence, often used in medical law."
+  },
+  {
+    "term": "Affidavit of merit",
+    "definition": "A sworn statement supporting the validity of a claim, often in malpractice cases."
+  },
+  {
+    "term": "Agency by estoppel",
+    "definition": "When a principal’s actions cause a third party to believe an agent has authority."
+  }
+],
+"B":[{
+    "term":"betrayal",
+    "definition":"okulaya olukwe"
+}, {
+      "term": "Bail",
+      "definition": "The temporary release of an accused person awaiting trial, sometimes on condition that a sum of money guarantees their appearance in court."
+    },
+    {
+      "term": "Bankruptcy",
+      "definition": "A legal process through which individuals or businesses unable to repay debts may seek relief from some or all of their obligations."
+    },
+    {
+      "term": "Breach of Contract",
+      "definition": "A violation or failure to perform any term of a contract, written or oral, without a legitimate legal excuse."
+    },
+    {
+      "term": "Burden of Proof",
+      "definition": "The obligation to prove one's assertion or charge, typically resting on the party bringing a claim."
+    },
+    {
+      "term": "Bench Trial",
+      "definition": "A trial by judge, as opposed to a trial by jury."
+    },
+    {
+      "term": "Beneficiary",
+      "definition": "A person who receives benefits or assets under a will, trust, insurance policy, or other legal document."
+    },
+    {
+      "term": "Bequest",
+      "definition": "A gift of personal property made through a will."
+    },
+    {
+      "term": "Bond",
+      "definition": "A financial security that represents a loan made by an investor to a borrower, typically used as collateral in legal matters."
+    },
+    {
+      "term": "Burglary",
+      "definition": "The unlawful entry into a building with intent to commit a crime, especially theft."
+    },
+    {
+      "term": "Brief",
+      "definition": "A written document presented to a court arguing why one party should prevail."
+    },
+    {
+      "term": "Bona Fide",
+      "definition": "In good faith; genuine or real."
+    },
+    {
+      "term": "Bill of Rights",
+      "definition": "A formal statement of the fundamental rights of the people of a nation."
+    },
+    {
+      "term": "Body of Evidence",
+      "definition": "All evidence collected and presented in support of a legal case."
+    },
+    {
+      "term": "Burden of Production",
+      "definition": "The obligation to present evidence to the court."
+    },
+    {
+      "term": "Bonded Warehouse",
+      "definition": "A secured warehouse where goods are stored until customs duties are paid."
+    },
+    {
+      "term": "Beneficial Owner",
+      "definition": "The true owner of property or assets, even if the title is in another name."
+    },
+    {
+      "term": "Ballot",
+      "definition": "A method of voting, typically secret, used in elections."
+    },
+    {
+      "term": "Breach",
+      "definition": "A violation or infraction of a law, obligation, or agreement."
+    },
+    {
+      "term": "Bar",
+      "definition": "The legal profession as a whole; also refers to the examination for admission to practice law."
+    },
+    {
+      "term": "Blackmail",
+      "definition": "The crime of demanding money or another benefit from someone in return for not revealing compromising or damaging information."
+    }],
+
+    "C": [
+    {
+      "term": "Case Law",
+      "definition": "Law developed through decisions of courts and similar tribunals."
+    },
+    {
+      "term": "Contract",
+      "definition": "A legally enforceable agreement between two or more parties."
+    },
+    {
+      "term": "Complaint",
+      "definition": "The initial pleading by which a lawsuit is begun."
+    },
+    {
+      "term": "Conviction",
+      "definition": "A formal declaration that someone is guilty of a criminal offense."
+    },
+    {
+      "term": "Cross-examination",
+      "definition": "The questioning of a witness by the opposing party in a trial."
+    },
+    {
+      "term": "Custody",
+      "definition": "The protective care or guardianship of someone or something, often relating to children or detainees."
+    },
+    {
+      "term": "Contempt of Court",
+      "definition": "An act of disobedience or disrespect toward a court or its procedures."
+    },
+    {
+      "term": "Civil Law",
+      "definition": "A body of rules that defines private rights and remedies and governs disputes between individuals."
+    },
+    {
+      "term": "Criminal Law",
+      "definition": "A system of law concerned with the punishment of those who commit crimes."
+    },
+    {
+      "term": "Copyright",
+      "definition": "A legal right that grants the creator of original work exclusive rights to its use and distribution."
+    },
+    {
+      "term": "Cause of Action",
+      "definition": "A legal reason for bringing a lawsuit."
+    },
+    {
+      "term": "Capital Punishment",
+      "definition": "The legally authorized killing of someone as punishment for a crime."
+    },
+    {
+      "term": "Counsel",
+      "definition": "A lawyer or group of lawyers giving legal advice and conducting cases in court."
+    },
+    {
+      "term": "Creditor",
+      "definition": "A person or institution to whom money is owed."
+    },
+    {
+      "term": "Complainant",
+      "definition": "A person who makes a formal charge or files a lawsuit."
+    },
+    {
+      "term": "Corroborating Evidence",
+      "definition": "Evidence that confirms or supports a statement, theory, or finding."
+    },
+    {
+      "term": "Common Law",
+      "definition": "Law derived from judicial decisions instead of from statutes."
+    },
+    {
+      "term": "Contingency Fee",
+      "definition": "A fee paid to a lawyer only if the case is won."
+    },
+    {
+      "term": "Caveat",
+      "definition": "A warning or caution, often placed on public records to prevent certain actions."
+    },
+    {
+      "term": "Chattel",
+      "definition": "Movable personal property that is not real estate."
+    }
+  ]
+
+
+    }  
+}
