@@ -17,7 +17,7 @@ const Sidebar =({isOpen}:SidebarProps)=> {
     const Sideitems =[
     {to:"/", icon:<FaHome/>, text:"Home"},
     {to:"AIAssistance", icon:<FaRobot/>, text:"AIAssistance"},
-    {to:"LawDictioanay", icon:<FaBook/>, text:"LawDictionary"},
+    {to:"LawDictionary", icon:<FaBook/>, text:"LawDictionary"},
     {to:"Contact", icon:<FaEnvelope/>, text:"Contact"},
     {to:"LegalDocs", icon:<FaFileAlt/>, text:"LegalDocs"},
     {to:"Help", icon:<FaQuestionCircle/>, text:"Help"}

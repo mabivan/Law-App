@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Sidebar from "./components/Sidebar/Sidebar";
 import Criminal from "./pages/LawCategories/Criminal";
 import Home from "./pages/SideCategories/Home";
-import LawDictionary from "./pages/SideCategories/LawDictionary";
+import LawDictionary from './pages/SideCategories/LawDictionary';
 import Footer from "./components/Footer/Footer";
 
 function App() {
@@ -20,12 +20,15 @@ function App() {
       <div className="app-container">
         <Navbar toggleSidebar={toggleSidebar} />
         <Sidebar isOpen={isSidebarOpen} />
-        <Routes>
-          <Route path="/LawCategories/Criminal/:country" element={<Criminal />} />
-          <Route path="/SideCategories/LawDictionary" element={<LawDictionary />} />
-          
-          <Route path="/" element={<Home />} />
-        </Routes>
+      <Routes>
+  <Route path="/" element={<Home />} />
+  {/* <Route path="/AIAssistance" element={<AIAssistance />} /> */}
+  
+  <Route path="/LawDictionary" element={<LawDictionary />} />  {/* ✅ Fixed */}
+  {/* <Route path="/Contact" element={<Contact />} />
+  <Route path="/LegalDocs" element={<LegalDocs />} /> */}
+  {/* <Route path="/Help" element={<Help />} /> */}
+</Routes>
         <Footer />
       </div>
     </BrowserRouter>

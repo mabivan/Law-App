@@ -157,6 +157,7 @@ const Navbar = ({ toggleSidebar }: NavbarProps) => {
                         e.stopPropagation();
                         setTimeout(() => setOpenDropdown(null), 100);
                       }}
+                      
                     >
                       <img
                         src={country.flag}
